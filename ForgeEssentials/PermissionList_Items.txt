@@ -1,0 +1,693 @@
+#// --------- PERMISSIONS LIST ITEMS ------- \\#
+#// --------------- 11.12 17:33 ------------ \\#
+#// ----------- Total amount: 2146 --------- \\#
+#// ---------------------------------------- \\#
+fe.protection.craft.*                                              # (default: true) Allow crafting of items. Not necessarily works with modded crafting tables
+fe.protection.craft.minecraft.apple.*                              # (default: true) CRAFT Яблоко
+fe.protection.craft.minecraft.arrow.*                              # (default: true) CRAFT Стрела
+fe.protection.craft.minecraft.baked_potato.*                       # (default: true) CRAFT Печёный картофель
+fe.protection.craft.minecraft.bed.*                                # (default: true) CRAFT Кровать
+fe.protection.craft.minecraft.beef.*                               # (default: true) CRAFT Сырая говядина
+fe.protection.craft.minecraft.blaze_powder.*                       # (default: true) CRAFT Огненный порошок
+fe.protection.craft.minecraft.blaze_rod.*                          # (default: true) CRAFT Стержень ифрита
+fe.protection.craft.minecraft.boat.*                               # (default: true) CRAFT Лодка
+fe.protection.craft.minecraft.bone.*                               # (default: true) CRAFT Кость
+fe.protection.craft.minecraft.book.*                               # (default: true) CRAFT Книга
+fe.protection.craft.minecraft.bow.*                                # (default: true) CRAFT Лук
+fe.protection.craft.minecraft.bowl.*                               # (default: true) CRAFT Миска
+fe.protection.craft.minecraft.bread.*                              # (default: true) CRAFT Хлеб
+fe.protection.craft.minecraft.brewing_stand.*                      # (default: true) CRAFT Варочная стойка
+fe.protection.craft.minecraft.brick.*                              # (default: true) CRAFT Кирпич
+fe.protection.craft.minecraft.bucket.*                             # (default: true) CRAFT Ведро
+fe.protection.craft.minecraft.cake.*                               # (default: true) CRAFT Торт
+fe.protection.craft.minecraft.carrot.*                             # (default: true) CRAFT Морковь
+fe.protection.craft.minecraft.carrot_on_a_stick.*                  # (default: true) CRAFT Удочка с морковью
+fe.protection.craft.minecraft.cauldron.*                           # (default: true) CRAFT Котёл
+fe.protection.craft.minecraft.chainmail_boots.*                    # (default: true) CRAFT Кольчужные ботинки
+fe.protection.craft.minecraft.chainmail_chestplate.*               # (default: true) CRAFT Кольчуга
+fe.protection.craft.minecraft.chainmail_helmet.*                   # (default: true) CRAFT Койф
+fe.protection.craft.minecraft.chainmail_leggings.*                 # (default: true) CRAFT Кольчужные поножи
+fe.protection.craft.minecraft.chest_minecart.*                     # (default: true) CRAFT Грузовая вагонетка
+fe.protection.craft.minecraft.chicken.*                            # (default: true) CRAFT Курятина
+fe.protection.craft.minecraft.clay_ball.*                          # (default: true) CRAFT Глина
+fe.protection.craft.minecraft.clock.*                              # (default: true) CRAFT Часы
+fe.protection.craft.minecraft.coal.*                               # (default: true) CRAFT Уголь
+fe.protection.craft.minecraft.command_block_minecart.*             # (default: true) CRAFT Вагонетка с командным блоком
+fe.protection.craft.minecraft.comparator.*                         # (default: true) CRAFT Компаратор
+fe.protection.craft.minecraft.compass.*                            # (default: true) CRAFT Компас
+fe.protection.craft.minecraft.cooked_beef.*                        # (default: true) CRAFT Стейк
+fe.protection.craft.minecraft.cooked_chicken.*                     # (default: true) CRAFT Жареная курица
+fe.protection.craft.minecraft.cooked_fished.*                      # (default: true) CRAFT Приготовленная рыба
+fe.protection.craft.minecraft.cooked_porkchop.*                    # (default: true) CRAFT Жареная свинина
+fe.protection.craft.minecraft.cookie.*                             # (default: true) CRAFT Печенье
+fe.protection.craft.minecraft.diamond.*                            # (default: true) CRAFT Алмаз
+fe.protection.craft.minecraft.diamond_axe.*                        # (default: true) CRAFT Алмазный топор
+fe.protection.craft.minecraft.diamond_boots.*                      # (default: true) CRAFT Алмазные ботинки
+fe.protection.craft.minecraft.diamond_chestplate.*                 # (default: true) CRAFT Алмазный нагрудник
+fe.protection.craft.minecraft.diamond_helmet.*                     # (default: true) CRAFT Алмазный шлем
+fe.protection.craft.minecraft.diamond_hoe.*                        # (default: true) CRAFT Алмазная мотыга
+fe.protection.craft.minecraft.diamond_horse_armor.*                # (default: true) CRAFT Алмазная конская броня
+fe.protection.craft.minecraft.diamond_leggings.*                   # (default: true) CRAFT Алмазные поножи
+fe.protection.craft.minecraft.diamond_pickaxe.*                    # (default: true) CRAFT Алмазная кирка
+fe.protection.craft.minecraft.diamond_shovel.*                     # (default: true) CRAFT Алмазная лопата
+fe.protection.craft.minecraft.diamond_sword.*                      # (default: true) CRAFT Алмазный меч
+fe.protection.craft.minecraft.dye.*                                # (default: true) CRAFT Чернильный мешок
+fe.protection.craft.minecraft.egg.*                                # (default: true) CRAFT Яйцо
+fe.protection.craft.minecraft.emerald.*                            # (default: true) CRAFT Изумруд
+fe.protection.craft.minecraft.enchanted_book.*                     # (default: true) CRAFT Зачарованная книга
+fe.protection.craft.minecraft.ender_eye.*                          # (default: true) CRAFT Око Эндера
+fe.protection.craft.minecraft.ender_pearl.*                        # (default: true) CRAFT Жемчуг Эндера
+fe.protection.craft.minecraft.experience_bottle.*                  # (default: true) CRAFT Пузырёк опыта
+fe.protection.craft.minecraft.feather.*                            # (default: true) CRAFT Перо
+fe.protection.craft.minecraft.fermented_spider_eye.*               # (default: true) CRAFT Маринованный паучий глаз
+fe.protection.craft.minecraft.filled_map.*                         # (default: true) CRAFT Карта
+fe.protection.craft.minecraft.fire_charge.*                        # (default: true) CRAFT Огненный шар
+fe.protection.craft.minecraft.firework_charge.*                    # (default: true) CRAFT Звёздочка
+fe.protection.craft.minecraft.fireworks.*                          # (default: true) CRAFT Фейерверк
+fe.protection.craft.minecraft.fish.*                               # (default: true) CRAFT Сырая рыба
+fe.protection.craft.minecraft.fishing_rod.*                        # (default: true) CRAFT Удочка
+fe.protection.craft.minecraft.flint.*                              # (default: true) CRAFT Кремень
+fe.protection.craft.minecraft.flint_and_steel.*                    # (default: true) CRAFT Огниво
+fe.protection.craft.minecraft.flower_pot.*                         # (default: true) CRAFT Цветочный горшок
+fe.protection.craft.minecraft.furnace_minecart.*                   # (default: true) CRAFT Самоходная вагонетка
+fe.protection.craft.minecraft.ghast_tear.*                         # (default: true) CRAFT Слеза Гаста
+fe.protection.craft.minecraft.glass_bottle.*                       # (default: true) CRAFT Пузырёк
+fe.protection.craft.minecraft.glowstone_dust.*                     # (default: true) CRAFT Светящаяся пыль
+fe.protection.craft.minecraft.gold_ingot.*                         # (default: true) CRAFT Золотой слиток
+fe.protection.craft.minecraft.gold_nugget.*                        # (default: true) CRAFT Золотой самородок
+fe.protection.craft.minecraft.golden_apple.*                       # (default: true) CRAFT Золотое яблоко
+fe.protection.craft.minecraft.golden_axe.*                         # (default: true) CRAFT Золотой топор
+fe.protection.craft.minecraft.golden_boots.*                       # (default: true) CRAFT Золотые ботинки
+fe.protection.craft.minecraft.golden_carrot.*                      # (default: true) CRAFT Золотая морковь
+fe.protection.craft.minecraft.golden_chestplate.*                  # (default: true) CRAFT Золотой нагрудник
+fe.protection.craft.minecraft.golden_helmet.*                      # (default: true) CRAFT Золотой шлем
+fe.protection.craft.minecraft.golden_hoe.*                         # (default: true) CRAFT Золотая мотыга
+fe.protection.craft.minecraft.golden_horse_armor.*                 # (default: true) CRAFT Золотая конская броня
+fe.protection.craft.minecraft.golden_leggings.*                    # (default: true) CRAFT Золотые поножи
+fe.protection.craft.minecraft.golden_pickaxe.*                     # (default: true) CRAFT Золотая кирка
+fe.protection.craft.minecraft.golden_shovel.*                      # (default: true) CRAFT Золотая лопата
+fe.protection.craft.minecraft.golden_sword.*                       # (default: true) CRAFT Золотой меч
+fe.protection.craft.minecraft.gunpowder.*                          # (default: true) CRAFT Порох
+fe.protection.craft.minecraft.hopper_minecart.*                    # (default: true) CRAFT Вагонетка с загрузочной воронкой
+fe.protection.craft.minecraft.iron_axe.*                           # (default: true) CRAFT Железный топор
+fe.protection.craft.minecraft.iron_boots.*                         # (default: true) CRAFT Железные ботинки
+fe.protection.craft.minecraft.iron_chestplate.*                    # (default: true) CRAFT Железный нагрудник
+fe.protection.craft.minecraft.iron_door.*                          # (default: true) CRAFT Железная дверь
+fe.protection.craft.minecraft.iron_helmet.*                        # (default: true) CRAFT Железный шлем
+fe.protection.craft.minecraft.iron_hoe.*                           # (default: true) CRAFT Железная мотыга
+fe.protection.craft.minecraft.iron_horse_armor.*                   # (default: true) CRAFT Железная конская броня
+fe.protection.craft.minecraft.iron_ingot.*                         # (default: true) CRAFT Железный слиток
+fe.protection.craft.minecraft.iron_leggings.*                      # (default: true) CRAFT Железные поножи
+fe.protection.craft.minecraft.iron_pickaxe.*                       # (default: true) CRAFT Железная кирка
+fe.protection.craft.minecraft.iron_shovel.*                        # (default: true) CRAFT Железная лопата
+fe.protection.craft.minecraft.iron_sword.*                         # (default: true) CRAFT Железный меч
+fe.protection.craft.minecraft.item_frame.*                         # (default: true) CRAFT Рамка
+fe.protection.craft.minecraft.lava_bucket.*                        # (default: true) CRAFT Ведро лавы
+fe.protection.craft.minecraft.lead.*                               # (default: true) CRAFT Поводок
+fe.protection.craft.minecraft.leather.*                            # (default: true) CRAFT Кожа
+fe.protection.craft.minecraft.leather_boots.*                      # (default: true) CRAFT Кожаные ботинки
+fe.protection.craft.minecraft.leather_chestplate.*                 # (default: true) CRAFT Кожаная куртка
+fe.protection.craft.minecraft.leather_helmet.*                     # (default: true) CRAFT Кожаный шлем
+fe.protection.craft.minecraft.leather_leggings.*                   # (default: true) CRAFT Кожаные штаны
+fe.protection.craft.minecraft.magma_cream.*                        # (default: true) CRAFT Сгусток магмы
+fe.protection.craft.minecraft.map.*                                # (default: true) CRAFT Чистая карта
+fe.protection.craft.minecraft.melon.*                              # (default: true) CRAFT Арбуз
+fe.protection.craft.minecraft.melon_seeds.*                        # (default: true) CRAFT Семена арбуза
+fe.protection.craft.minecraft.milk_bucket.*                        # (default: true) CRAFT Молоко
+fe.protection.craft.minecraft.minecart.*                           # (default: true) CRAFT Вагонетка
+fe.protection.craft.minecraft.mushroom_stew.*                      # (default: true) CRAFT Тушеные грибы
+fe.protection.craft.minecraft.name_tag.*                           # (default: true) CRAFT Бирка
+fe.protection.craft.minecraft.nether_star.*                        # (default: true) CRAFT Адская звезда
+fe.protection.craft.minecraft.nether_wart.*                        # (default: true) CRAFT Адский нарост
+fe.protection.craft.minecraft.netherbrick.*                        # (default: true) CRAFT Адский кирпич
+fe.protection.craft.minecraft.painting.*                           # (default: true) CRAFT Картина
+fe.protection.craft.minecraft.paper.*                              # (default: true) CRAFT Бумага
+fe.protection.craft.minecraft.poisonous_potato.*                   # (default: true) CRAFT Ядовитый картофель
+fe.protection.craft.minecraft.porkchop.*                           # (default: true) CRAFT Сырая свинина
+fe.protection.craft.minecraft.potato.*                             # (default: true) CRAFT Картофель
+fe.protection.craft.minecraft.potion.*                             # (default: true) CRAFT Пузырёк воды
+fe.protection.craft.minecraft.pumpkin_pie.*                        # (default: true) CRAFT Тыквенный пирог
+fe.protection.craft.minecraft.pumpkin_seeds.*                      # (default: true) CRAFT Семена тыквы
+fe.protection.craft.minecraft.quartz.*                             # (default: true) CRAFT Кварц
+fe.protection.craft.minecraft.record_11.*                          # (default: true) CRAFT Пластинка
+fe.protection.craft.minecraft.record_13.*                          # (default: true) CRAFT Пластинка
+fe.protection.craft.minecraft.record_blocks.*                      # (default: true) CRAFT Пластинка
+fe.protection.craft.minecraft.record_cat.*                         # (default: true) CRAFT Пластинка
+fe.protection.craft.minecraft.record_chirp.*                       # (default: true) CRAFT Пластинка
+fe.protection.craft.minecraft.record_far.*                         # (default: true) CRAFT Пластинка
+fe.protection.craft.minecraft.record_mall.*                        # (default: true) CRAFT Пластинка
+fe.protection.craft.minecraft.record_mellohi.*                     # (default: true) CRAFT Пластинка
+fe.protection.craft.minecraft.record_stal.*                        # (default: true) CRAFT Пластинка
+fe.protection.craft.minecraft.record_strad.*                       # (default: true) CRAFT Пластинка
+fe.protection.craft.minecraft.record_wait.*                        # (default: true) CRAFT Пластинка
+fe.protection.craft.minecraft.record_ward.*                        # (default: true) CRAFT Пластинка
+fe.protection.craft.minecraft.redstone.*                           # (default: true) CRAFT Красная пыль
+fe.protection.craft.minecraft.reeds.*                              # (default: true) CRAFT Сахарный тростник
+fe.protection.craft.minecraft.repeater.*                           # (default: true) CRAFT Повторитель
+fe.protection.craft.minecraft.rotten_flesh.*                       # (default: true) CRAFT Гнилая плоть
+fe.protection.craft.minecraft.saddle.*                             # (default: true) CRAFT Седло
+fe.protection.craft.minecraft.shears.*                             # (default: true) CRAFT Ножницы
+fe.protection.craft.minecraft.sign.*                               # (default: true) CRAFT Табличка
+fe.protection.craft.minecraft.skull.*                              # (default: true) CRAFT Череп
+fe.protection.craft.minecraft.slime_ball.*                         # (default: true) CRAFT Сгусток слизи
+fe.protection.craft.minecraft.snowball.*                           # (default: true) CRAFT Снежок
+fe.protection.craft.minecraft.spawn_egg.*                          # (default: true) CRAFT Призвать существо -
+fe.protection.craft.minecraft.speckled_melon.*                     # (default: true) CRAFT Сверкающий арбуз
+fe.protection.craft.minecraft.spider_eye.*                         # (default: true) CRAFT Паучий глаз
+fe.protection.craft.minecraft.stick.*                              # (default: true) CRAFT Палка
+fe.protection.craft.minecraft.stone_axe.*                          # (default: true) CRAFT Каменный топор
+fe.protection.craft.minecraft.stone_hoe.*                          # (default: true) CRAFT Каменная мотыга
+fe.protection.craft.minecraft.stone_pickaxe.*                      # (default: true) CRAFT Каменная кирка
+fe.protection.craft.minecraft.stone_shovel.*                       # (default: true) CRAFT Каменная лопата
+fe.protection.craft.minecraft.stone_sword.*                        # (default: true) CRAFT Каменный меч
+fe.protection.craft.minecraft.string.*                             # (default: true) CRAFT Нить
+fe.protection.craft.minecraft.sugar.*                              # (default: true) CRAFT Сахар
+fe.protection.craft.minecraft.tnt_minecart.*                       # (default: true) CRAFT Вагонетка с динамитом
+fe.protection.craft.minecraft.water_bucket.*                       # (default: true) CRAFT Ведро воды
+fe.protection.craft.minecraft.wheat.*                              # (default: true) CRAFT Пшеница
+fe.protection.craft.minecraft.wheat_seeds.*                        # (default: true) CRAFT Семена пшеницы
+fe.protection.craft.minecraft.wooden_axe.*                         # (default: true) CRAFT Деревянный топор
+fe.protection.craft.minecraft.wooden_door.*                        # (default: true) CRAFT Деревянная дверь
+fe.protection.craft.minecraft.wooden_hoe.*                         # (default: true) CRAFT Деревянная мотыга
+fe.protection.craft.minecraft.wooden_pickaxe.*                     # (default: true) CRAFT Деревянная кирка
+fe.protection.craft.minecraft.wooden_shovel.*                      # (default: true) CRAFT Деревянная лопата
+fe.protection.craft.minecraft.wooden_sword.*                       # (default: true) CRAFT Деревянный меч
+fe.protection.craft.minecraft.writable_book.*                      # (default: true) CRAFT Книга и перо
+fe.protection.craft.minecraft.written_book.*                       # (default: true) CRAFT Завершенная книга
+fe.protection.exist.*                                              # (default: true) Allow having item in inventory. Item will be destroyed if not allowed.
+fe.protection.exist.minecraft.apple.*                              # (default: true) EXIST Яблоко
+fe.protection.exist.minecraft.arrow.*                              # (default: true) EXIST Стрела
+fe.protection.exist.minecraft.baked_potato.*                       # (default: true) EXIST Печёный картофель
+fe.protection.exist.minecraft.bed.*                                # (default: true) EXIST Кровать
+fe.protection.exist.minecraft.beef.*                               # (default: true) EXIST Сырая говядина
+fe.protection.exist.minecraft.blaze_powder.*                       # (default: true) EXIST Огненный порошок
+fe.protection.exist.minecraft.blaze_rod.*                          # (default: true) EXIST Стержень ифрита
+fe.protection.exist.minecraft.boat.*                               # (default: true) EXIST Лодка
+fe.protection.exist.minecraft.bone.*                               # (default: true) EXIST Кость
+fe.protection.exist.minecraft.book.*                               # (default: true) EXIST Книга
+fe.protection.exist.minecraft.bow.*                                # (default: true) EXIST Лук
+fe.protection.exist.minecraft.bowl.*                               # (default: true) EXIST Миска
+fe.protection.exist.minecraft.bread.*                              # (default: true) EXIST Хлеб
+fe.protection.exist.minecraft.brewing_stand.*                      # (default: true) EXIST Варочная стойка
+fe.protection.exist.minecraft.brick.*                              # (default: true) EXIST Кирпич
+fe.protection.exist.minecraft.bucket.*                             # (default: true) EXIST Ведро
+fe.protection.exist.minecraft.cake.*                               # (default: true) EXIST Торт
+fe.protection.exist.minecraft.carrot.*                             # (default: true) EXIST Морковь
+fe.protection.exist.minecraft.carrot_on_a_stick.*                  # (default: true) EXIST Удочка с морковью
+fe.protection.exist.minecraft.cauldron.*                           # (default: true) EXIST Котёл
+fe.protection.exist.minecraft.chainmail_boots.*                    # (default: true) EXIST Кольчужные ботинки
+fe.protection.exist.minecraft.chainmail_chestplate.*               # (default: true) EXIST Кольчуга
+fe.protection.exist.minecraft.chainmail_helmet.*                   # (default: true) EXIST Койф
+fe.protection.exist.minecraft.chainmail_leggings.*                 # (default: true) EXIST Кольчужные поножи
+fe.protection.exist.minecraft.chest_minecart.*                     # (default: true) EXIST Грузовая вагонетка
+fe.protection.exist.minecraft.chicken.*                            # (default: true) EXIST Курятина
+fe.protection.exist.minecraft.clay_ball.*                          # (default: true) EXIST Глина
+fe.protection.exist.minecraft.clock.*                              # (default: true) EXIST Часы
+fe.protection.exist.minecraft.coal.*                               # (default: true) EXIST Уголь
+fe.protection.exist.minecraft.command_block_minecart.*             # (default: true) EXIST Вагонетка с командным блоком
+fe.protection.exist.minecraft.comparator.*                         # (default: true) EXIST Компаратор
+fe.protection.exist.minecraft.compass.*                            # (default: true) EXIST Компас
+fe.protection.exist.minecraft.cooked_beef.*                        # (default: true) EXIST Стейк
+fe.protection.exist.minecraft.cooked_chicken.*                     # (default: true) EXIST Жареная курица
+fe.protection.exist.minecraft.cooked_fished.*                      # (default: true) EXIST Приготовленная рыба
+fe.protection.exist.minecraft.cooked_porkchop.*                    # (default: true) EXIST Жареная свинина
+fe.protection.exist.minecraft.cookie.*                             # (default: true) EXIST Печенье
+fe.protection.exist.minecraft.diamond.*                            # (default: true) EXIST Алмаз
+fe.protection.exist.minecraft.diamond_axe.*                        # (default: true) EXIST Алмазный топор
+fe.protection.exist.minecraft.diamond_boots.*                      # (default: true) EXIST Алмазные ботинки
+fe.protection.exist.minecraft.diamond_chestplate.*                 # (default: true) EXIST Алмазный нагрудник
+fe.protection.exist.minecraft.diamond_helmet.*                     # (default: true) EXIST Алмазный шлем
+fe.protection.exist.minecraft.diamond_hoe.*                        # (default: true) EXIST Алмазная мотыга
+fe.protection.exist.minecraft.diamond_horse_armor.*                # (default: true) EXIST Алмазная конская броня
+fe.protection.exist.minecraft.diamond_leggings.*                   # (default: true) EXIST Алмазные поножи
+fe.protection.exist.minecraft.diamond_pickaxe.*                    # (default: true) EXIST Алмазная кирка
+fe.protection.exist.minecraft.diamond_shovel.*                     # (default: true) EXIST Алмазная лопата
+fe.protection.exist.minecraft.diamond_sword.*                      # (default: true) EXIST Алмазный меч
+fe.protection.exist.minecraft.dye.*                                # (default: true) EXIST Чернильный мешок
+fe.protection.exist.minecraft.egg.*                                # (default: true) EXIST Яйцо
+fe.protection.exist.minecraft.emerald.*                            # (default: true) EXIST Изумруд
+fe.protection.exist.minecraft.enchanted_book.*                     # (default: true) EXIST Зачарованная книга
+fe.protection.exist.minecraft.ender_eye.*                          # (default: true) EXIST Око Эндера
+fe.protection.exist.minecraft.ender_pearl.*                        # (default: true) EXIST Жемчуг Эндера
+fe.protection.exist.minecraft.experience_bottle.*                  # (default: true) EXIST Пузырёк опыта
+fe.protection.exist.minecraft.feather.*                            # (default: true) EXIST Перо
+fe.protection.exist.minecraft.fermented_spider_eye.*               # (default: true) EXIST Маринованный паучий глаз
+fe.protection.exist.minecraft.filled_map.*                         # (default: true) EXIST Карта
+fe.protection.exist.minecraft.fire_charge.*                        # (default: true) EXIST Огненный шар
+fe.protection.exist.minecraft.firework_charge.*                    # (default: true) EXIST Звёздочка
+fe.protection.exist.minecraft.fireworks.*                          # (default: true) EXIST Фейерверк
+fe.protection.exist.minecraft.fish.*                               # (default: true) EXIST Сырая рыба
+fe.protection.exist.minecraft.fishing_rod.*                        # (default: true) EXIST Удочка
+fe.protection.exist.minecraft.flint.*                              # (default: true) EXIST Кремень
+fe.protection.exist.minecraft.flint_and_steel.*                    # (default: true) EXIST Огниво
+fe.protection.exist.minecraft.flower_pot.*                         # (default: true) EXIST Цветочный горшок
+fe.protection.exist.minecraft.furnace_minecart.*                   # (default: true) EXIST Самоходная вагонетка
+fe.protection.exist.minecraft.ghast_tear.*                         # (default: true) EXIST Слеза Гаста
+fe.protection.exist.minecraft.glass_bottle.*                       # (default: true) EXIST Пузырёк
+fe.protection.exist.minecraft.glowstone_dust.*                     # (default: true) EXIST Светящаяся пыль
+fe.protection.exist.minecraft.gold_ingot.*                         # (default: true) EXIST Золотой слиток
+fe.protection.exist.minecraft.gold_nugget.*                        # (default: true) EXIST Золотой самородок
+fe.protection.exist.minecraft.golden_apple.*                       # (default: true) EXIST Золотое яблоко
+fe.protection.exist.minecraft.golden_axe.*                         # (default: true) EXIST Золотой топор
+fe.protection.exist.minecraft.golden_boots.*                       # (default: true) EXIST Золотые ботинки
+fe.protection.exist.minecraft.golden_carrot.*                      # (default: true) EXIST Золотая морковь
+fe.protection.exist.minecraft.golden_chestplate.*                  # (default: true) EXIST Золотой нагрудник
+fe.protection.exist.minecraft.golden_helmet.*                      # (default: true) EXIST Золотой шлем
+fe.protection.exist.minecraft.golden_hoe.*                         # (default: true) EXIST Золотая мотыга
+fe.protection.exist.minecraft.golden_horse_armor.*                 # (default: true) EXIST Золотая конская броня
+fe.protection.exist.minecraft.golden_leggings.*                    # (default: true) EXIST Золотые поножи
+fe.protection.exist.minecraft.golden_pickaxe.*                     # (default: true) EXIST Золотая кирка
+fe.protection.exist.minecraft.golden_shovel.*                      # (default: true) EXIST Золотая лопата
+fe.protection.exist.minecraft.golden_sword.*                       # (default: true) EXIST Золотой меч
+fe.protection.exist.minecraft.gunpowder.*                          # (default: true) EXIST Порох
+fe.protection.exist.minecraft.hopper_minecart.*                    # (default: true) EXIST Вагонетка с загрузочной воронкой
+fe.protection.exist.minecraft.iron_axe.*                           # (default: true) EXIST Железный топор
+fe.protection.exist.minecraft.iron_boots.*                         # (default: true) EXIST Железные ботинки
+fe.protection.exist.minecraft.iron_chestplate.*                    # (default: true) EXIST Железный нагрудник
+fe.protection.exist.minecraft.iron_door.*                          # (default: true) EXIST Железная дверь
+fe.protection.exist.minecraft.iron_helmet.*                        # (default: true) EXIST Железный шлем
+fe.protection.exist.minecraft.iron_hoe.*                           # (default: true) EXIST Железная мотыга
+fe.protection.exist.minecraft.iron_horse_armor.*                   # (default: true) EXIST Железная конская броня
+fe.protection.exist.minecraft.iron_ingot.*                         # (default: true) EXIST Железный слиток
+fe.protection.exist.minecraft.iron_leggings.*                      # (default: true) EXIST Железные поножи
+fe.protection.exist.minecraft.iron_pickaxe.*                       # (default: true) EXIST Железная кирка
+fe.protection.exist.minecraft.iron_shovel.*                        # (default: true) EXIST Железная лопата
+fe.protection.exist.minecraft.iron_sword.*                         # (default: true) EXIST Железный меч
+fe.protection.exist.minecraft.item_frame.*                         # (default: true) EXIST Рамка
+fe.protection.exist.minecraft.lava_bucket.*                        # (default: true) EXIST Ведро лавы
+fe.protection.exist.minecraft.lead.*                               # (default: true) EXIST Поводок
+fe.protection.exist.minecraft.leather.*                            # (default: true) EXIST Кожа
+fe.protection.exist.minecraft.leather_boots.*                      # (default: true) EXIST Кожаные ботинки
+fe.protection.exist.minecraft.leather_chestplate.*                 # (default: true) EXIST Кожаная куртка
+fe.protection.exist.minecraft.leather_helmet.*                     # (default: true) EXIST Кожаный шлем
+fe.protection.exist.minecraft.leather_leggings.*                   # (default: true) EXIST Кожаные штаны
+fe.protection.exist.minecraft.magma_cream.*                        # (default: true) EXIST Сгусток магмы
+fe.protection.exist.minecraft.map.*                                # (default: true) EXIST Чистая карта
+fe.protection.exist.minecraft.melon.*                              # (default: true) EXIST Арбуз
+fe.protection.exist.minecraft.melon_seeds.*                        # (default: true) EXIST Семена арбуза
+fe.protection.exist.minecraft.milk_bucket.*                        # (default: true) EXIST Молоко
+fe.protection.exist.minecraft.minecart.*                           # (default: true) EXIST Вагонетка
+fe.protection.exist.minecraft.mushroom_stew.*                      # (default: true) EXIST Тушеные грибы
+fe.protection.exist.minecraft.name_tag.*                           # (default: true) EXIST Бирка
+fe.protection.exist.minecraft.nether_star.*                        # (default: true) EXIST Адская звезда
+fe.protection.exist.minecraft.nether_wart.*                        # (default: true) EXIST Адский нарост
+fe.protection.exist.minecraft.netherbrick.*                        # (default: true) EXIST Адский кирпич
+fe.protection.exist.minecraft.painting.*                           # (default: true) EXIST Картина
+fe.protection.exist.minecraft.paper.*                              # (default: true) EXIST Бумага
+fe.protection.exist.minecraft.poisonous_potato.*                   # (default: true) EXIST Ядовитый картофель
+fe.protection.exist.minecraft.porkchop.*                           # (default: true) EXIST Сырая свинина
+fe.protection.exist.minecraft.potato.*                             # (default: true) EXIST Картофель
+fe.protection.exist.minecraft.potion.*                             # (default: true) EXIST Пузырёк воды
+fe.protection.exist.minecraft.pumpkin_pie.*                        # (default: true) EXIST Тыквенный пирог
+fe.protection.exist.minecraft.pumpkin_seeds.*                      # (default: true) EXIST Семена тыквы
+fe.protection.exist.minecraft.quartz.*                             # (default: true) EXIST Кварц
+fe.protection.exist.minecraft.record_11.*                          # (default: true) EXIST Пластинка
+fe.protection.exist.minecraft.record_13.*                          # (default: true) EXIST Пластинка
+fe.protection.exist.minecraft.record_blocks.*                      # (default: true) EXIST Пластинка
+fe.protection.exist.minecraft.record_cat.*                         # (default: true) EXIST Пластинка
+fe.protection.exist.minecraft.record_chirp.*                       # (default: true) EXIST Пластинка
+fe.protection.exist.minecraft.record_far.*                         # (default: true) EXIST Пластинка
+fe.protection.exist.minecraft.record_mall.*                        # (default: true) EXIST Пластинка
+fe.protection.exist.minecraft.record_mellohi.*                     # (default: true) EXIST Пластинка
+fe.protection.exist.minecraft.record_stal.*                        # (default: true) EXIST Пластинка
+fe.protection.exist.minecraft.record_strad.*                       # (default: true) EXIST Пластинка
+fe.protection.exist.minecraft.record_wait.*                        # (default: true) EXIST Пластинка
+fe.protection.exist.minecraft.record_ward.*                        # (default: true) EXIST Пластинка
+fe.protection.exist.minecraft.redstone.*                           # (default: true) EXIST Красная пыль
+fe.protection.exist.minecraft.reeds.*                              # (default: true) EXIST Сахарный тростник
+fe.protection.exist.minecraft.repeater.*                           # (default: true) EXIST Повторитель
+fe.protection.exist.minecraft.rotten_flesh.*                       # (default: true) EXIST Гнилая плоть
+fe.protection.exist.minecraft.saddle.*                             # (default: true) EXIST Седло
+fe.protection.exist.minecraft.shears.*                             # (default: true) EXIST Ножницы
+fe.protection.exist.minecraft.sign.*                               # (default: true) EXIST Табличка
+fe.protection.exist.minecraft.skull.*                              # (default: true) EXIST Череп
+fe.protection.exist.minecraft.slime_ball.*                         # (default: true) EXIST Сгусток слизи
+fe.protection.exist.minecraft.snowball.*                           # (default: true) EXIST Снежок
+fe.protection.exist.minecraft.spawn_egg.*                          # (default: true) EXIST Призвать существо -
+fe.protection.exist.minecraft.speckled_melon.*                     # (default: true) EXIST Сверкающий арбуз
+fe.protection.exist.minecraft.spider_eye.*                         # (default: true) EXIST Паучий глаз
+fe.protection.exist.minecraft.stick.*                              # (default: true) EXIST Палка
+fe.protection.exist.minecraft.stone_axe.*                          # (default: true) EXIST Каменный топор
+fe.protection.exist.minecraft.stone_hoe.*                          # (default: true) EXIST Каменная мотыга
+fe.protection.exist.minecraft.stone_pickaxe.*                      # (default: true) EXIST Каменная кирка
+fe.protection.exist.minecraft.stone_shovel.*                       # (default: true) EXIST Каменная лопата
+fe.protection.exist.minecraft.stone_sword.*                        # (default: true) EXIST Каменный меч
+fe.protection.exist.minecraft.string.*                             # (default: true) EXIST Нить
+fe.protection.exist.minecraft.sugar.*                              # (default: true) EXIST Сахар
+fe.protection.exist.minecraft.tnt_minecart.*                       # (default: true) EXIST Вагонетка с динамитом
+fe.protection.exist.minecraft.water_bucket.*                       # (default: true) EXIST Ведро воды
+fe.protection.exist.minecraft.wheat.*                              # (default: true) EXIST Пшеница
+fe.protection.exist.minecraft.wheat_seeds.*                        # (default: true) EXIST Семена пшеницы
+fe.protection.exist.minecraft.wooden_axe.*                         # (default: true) EXIST Деревянный топор
+fe.protection.exist.minecraft.wooden_door.*                        # (default: true) EXIST Деревянная дверь
+fe.protection.exist.minecraft.wooden_hoe.*                         # (default: true) EXIST Деревянная мотыга
+fe.protection.exist.minecraft.wooden_pickaxe.*                     # (default: true) EXIST Деревянная кирка
+fe.protection.exist.minecraft.wooden_shovel.*                      # (default: true) EXIST Деревянная лопата
+fe.protection.exist.minecraft.wooden_sword.*                       # (default: true) EXIST Деревянный меч
+fe.protection.exist.minecraft.writable_book.*                      # (default: true) EXIST Книга и перо
+fe.protection.exist.minecraft.written_book.*                       # (default: true) EXIST Завершенная книга
+fe.protection.inventory.*                                          # (default: true) Allow having item in inventory. Item will be dropped if not allowed.
+fe.protection.inventory.minecraft.apple.*                          # (default: true) INVENTORY Яблоко
+fe.protection.inventory.minecraft.arrow.*                          # (default: true) INVENTORY Стрела
+fe.protection.inventory.minecraft.baked_potato.*                   # (default: true) INVENTORY Печёный картофель
+fe.protection.inventory.minecraft.bed.*                            # (default: true) INVENTORY Кровать
+fe.protection.inventory.minecraft.beef.*                           # (default: true) INVENTORY Сырая говядина
+fe.protection.inventory.minecraft.blaze_powder.*                   # (default: true) INVENTORY Огненный порошок
+fe.protection.inventory.minecraft.blaze_rod.*                      # (default: true) INVENTORY Стержень ифрита
+fe.protection.inventory.minecraft.boat.*                           # (default: true) INVENTORY Лодка
+fe.protection.inventory.minecraft.bone.*                           # (default: true) INVENTORY Кость
+fe.protection.inventory.minecraft.book.*                           # (default: true) INVENTORY Книга
+fe.protection.inventory.minecraft.bow.*                            # (default: true) INVENTORY Лук
+fe.protection.inventory.minecraft.bowl.*                           # (default: true) INVENTORY Миска
+fe.protection.inventory.minecraft.bread.*                          # (default: true) INVENTORY Хлеб
+fe.protection.inventory.minecraft.brewing_stand.*                  # (default: true) INVENTORY Варочная стойка
+fe.protection.inventory.minecraft.brick.*                          # (default: true) INVENTORY Кирпич
+fe.protection.inventory.minecraft.bucket.*                         # (default: true) INVENTORY Ведро
+fe.protection.inventory.minecraft.cake.*                           # (default: true) INVENTORY Торт
+fe.protection.inventory.minecraft.carrot.*                         # (default: true) INVENTORY Морковь
+fe.protection.inventory.minecraft.carrot_on_a_stick.*              # (default: true) INVENTORY Удочка с морковью
+fe.protection.inventory.minecraft.cauldron.*                       # (default: true) INVENTORY Котёл
+fe.protection.inventory.minecraft.chainmail_boots.*                # (default: true) INVENTORY Кольчужные ботинки
+fe.protection.inventory.minecraft.chainmail_chestplate.*           # (default: true) INVENTORY Кольчуга
+fe.protection.inventory.minecraft.chainmail_helmet.*               # (default: true) INVENTORY Койф
+fe.protection.inventory.minecraft.chainmail_leggings.*             # (default: true) INVENTORY Кольчужные поножи
+fe.protection.inventory.minecraft.chest_minecart.*                 # (default: true) INVENTORY Грузовая вагонетка
+fe.protection.inventory.minecraft.chicken.*                        # (default: true) INVENTORY Курятина
+fe.protection.inventory.minecraft.clay_ball.*                      # (default: true) INVENTORY Глина
+fe.protection.inventory.minecraft.clock.*                          # (default: true) INVENTORY Часы
+fe.protection.inventory.minecraft.coal.*                           # (default: true) INVENTORY Уголь
+fe.protection.inventory.minecraft.command_block_minecart.*         # (default: true) INVENTORY Вагонетка с командным блоком
+fe.protection.inventory.minecraft.comparator.*                     # (default: true) INVENTORY Компаратор
+fe.protection.inventory.minecraft.compass.*                        # (default: true) INVENTORY Компас
+fe.protection.inventory.minecraft.cooked_beef.*                    # (default: true) INVENTORY Стейк
+fe.protection.inventory.minecraft.cooked_chicken.*                 # (default: true) INVENTORY Жареная курица
+fe.protection.inventory.minecraft.cooked_fished.*                  # (default: true) INVENTORY Приготовленная рыба
+fe.protection.inventory.minecraft.cooked_porkchop.*                # (default: true) INVENTORY Жареная свинина
+fe.protection.inventory.minecraft.cookie.*                         # (default: true) INVENTORY Печенье
+fe.protection.inventory.minecraft.diamond.*                        # (default: true) INVENTORY Алмаз
+fe.protection.inventory.minecraft.diamond_axe.*                    # (default: true) INVENTORY Алмазный топор
+fe.protection.inventory.minecraft.diamond_boots.*                  # (default: true) INVENTORY Алмазные ботинки
+fe.protection.inventory.minecraft.diamond_chestplate.*             # (default: true) INVENTORY Алмазный нагрудник
+fe.protection.inventory.minecraft.diamond_helmet.*                 # (default: true) INVENTORY Алмазный шлем
+fe.protection.inventory.minecraft.diamond_hoe.*                    # (default: true) INVENTORY Алмазная мотыга
+fe.protection.inventory.minecraft.diamond_horse_armor.*            # (default: true) INVENTORY Алмазная конская броня
+fe.protection.inventory.minecraft.diamond_leggings.*               # (default: true) INVENTORY Алмазные поножи
+fe.protection.inventory.minecraft.diamond_pickaxe.*                # (default: true) INVENTORY Алмазная кирка
+fe.protection.inventory.minecraft.diamond_shovel.*                 # (default: true) INVENTORY Алмазная лопата
+fe.protection.inventory.minecraft.diamond_sword.*                  # (default: true) INVENTORY Алмазный меч
+fe.protection.inventory.minecraft.dye.*                            # (default: true) INVENTORY Чернильный мешок
+fe.protection.inventory.minecraft.egg.*                            # (default: true) INVENTORY Яйцо
+fe.protection.inventory.minecraft.emerald.*                        # (default: true) INVENTORY Изумруд
+fe.protection.inventory.minecraft.enchanted_book.*                 # (default: true) INVENTORY Зачарованная книга
+fe.protection.inventory.minecraft.ender_eye.*                      # (default: true) INVENTORY Око Эндера
+fe.protection.inventory.minecraft.ender_pearl.*                    # (default: true) INVENTORY Жемчуг Эндера
+fe.protection.inventory.minecraft.experience_bottle.*              # (default: true) INVENTORY Пузырёк опыта
+fe.protection.inventory.minecraft.feather.*                        # (default: true) INVENTORY Перо
+fe.protection.inventory.minecraft.fermented_spider_eye.*           # (default: true) INVENTORY Маринованный паучий глаз
+fe.protection.inventory.minecraft.filled_map.*                     # (default: true) INVENTORY Карта
+fe.protection.inventory.minecraft.fire_charge.*                    # (default: true) INVENTORY Огненный шар
+fe.protection.inventory.minecraft.firework_charge.*                # (default: true) INVENTORY Звёздочка
+fe.protection.inventory.minecraft.fireworks.*                      # (default: true) INVENTORY Фейерверк
+fe.protection.inventory.minecraft.fish.*                           # (default: true) INVENTORY Сырая рыба
+fe.protection.inventory.minecraft.fishing_rod.*                    # (default: true) INVENTORY Удочка
+fe.protection.inventory.minecraft.flint.*                          # (default: true) INVENTORY Кремень
+fe.protection.inventory.minecraft.flint_and_steel.*                # (default: true) INVENTORY Огниво
+fe.protection.inventory.minecraft.flower_pot.*                     # (default: true) INVENTORY Цветочный горшок
+fe.protection.inventory.minecraft.furnace_minecart.*               # (default: true) INVENTORY Самоходная вагонетка
+fe.protection.inventory.minecraft.ghast_tear.*                     # (default: true) INVENTORY Слеза Гаста
+fe.protection.inventory.minecraft.glass_bottle.*                   # (default: true) INVENTORY Пузырёк
+fe.protection.inventory.minecraft.glowstone_dust.*                 # (default: true) INVENTORY Светящаяся пыль
+fe.protection.inventory.minecraft.gold_ingot.*                     # (default: true) INVENTORY Золотой слиток
+fe.protection.inventory.minecraft.gold_nugget.*                    # (default: true) INVENTORY Золотой самородок
+fe.protection.inventory.minecraft.golden_apple.*                   # (default: true) INVENTORY Золотое яблоко
+fe.protection.inventory.minecraft.golden_axe.*                     # (default: true) INVENTORY Золотой топор
+fe.protection.inventory.minecraft.golden_boots.*                   # (default: true) INVENTORY Золотые ботинки
+fe.protection.inventory.minecraft.golden_carrot.*                  # (default: true) INVENTORY Золотая морковь
+fe.protection.inventory.minecraft.golden_chestplate.*              # (default: true) INVENTORY Золотой нагрудник
+fe.protection.inventory.minecraft.golden_helmet.*                  # (default: true) INVENTORY Золотой шлем
+fe.protection.inventory.minecraft.golden_hoe.*                     # (default: true) INVENTORY Золотая мотыга
+fe.protection.inventory.minecraft.golden_horse_armor.*             # (default: true) INVENTORY Золотая конская броня
+fe.protection.inventory.minecraft.golden_leggings.*                # (default: true) INVENTORY Золотые поножи
+fe.protection.inventory.minecraft.golden_pickaxe.*                 # (default: true) INVENTORY Золотая кирка
+fe.protection.inventory.minecraft.golden_shovel.*                  # (default: true) INVENTORY Золотая лопата
+fe.protection.inventory.minecraft.golden_sword.*                   # (default: true) INVENTORY Золотой меч
+fe.protection.inventory.minecraft.gunpowder.*                      # (default: true) INVENTORY Порох
+fe.protection.inventory.minecraft.hopper_minecart.*                # (default: true) INVENTORY Вагонетка с загрузочной воронкой
+fe.protection.inventory.minecraft.iron_axe.*                       # (default: true) INVENTORY Железный топор
+fe.protection.inventory.minecraft.iron_boots.*                     # (default: true) INVENTORY Железные ботинки
+fe.protection.inventory.minecraft.iron_chestplate.*                # (default: true) INVENTORY Железный нагрудник
+fe.protection.inventory.minecraft.iron_door.*                      # (default: true) INVENTORY Железная дверь
+fe.protection.inventory.minecraft.iron_helmet.*                    # (default: true) INVENTORY Железный шлем
+fe.protection.inventory.minecraft.iron_hoe.*                       # (default: true) INVENTORY Железная мотыга
+fe.protection.inventory.minecraft.iron_horse_armor.*               # (default: true) INVENTORY Железная конская броня
+fe.protection.inventory.minecraft.iron_ingot.*                     # (default: true) INVENTORY Железный слиток
+fe.protection.inventory.minecraft.iron_leggings.*                  # (default: true) INVENTORY Железные поножи
+fe.protection.inventory.minecraft.iron_pickaxe.*                   # (default: true) INVENTORY Железная кирка
+fe.protection.inventory.minecraft.iron_shovel.*                    # (default: true) INVENTORY Железная лопата
+fe.protection.inventory.minecraft.iron_sword.*                     # (default: true) INVENTORY Железный меч
+fe.protection.inventory.minecraft.item_frame.*                     # (default: true) INVENTORY Рамка
+fe.protection.inventory.minecraft.lava_bucket.*                    # (default: true) INVENTORY Ведро лавы
+fe.protection.inventory.minecraft.lead.*                           # (default: true) INVENTORY Поводок
+fe.protection.inventory.minecraft.leather.*                        # (default: true) INVENTORY Кожа
+fe.protection.inventory.minecraft.leather_boots.*                  # (default: true) INVENTORY Кожаные ботинки
+fe.protection.inventory.minecraft.leather_chestplate.*             # (default: true) INVENTORY Кожаная куртка
+fe.protection.inventory.minecraft.leather_helmet.*                 # (default: true) INVENTORY Кожаный шлем
+fe.protection.inventory.minecraft.leather_leggings.*               # (default: true) INVENTORY Кожаные штаны
+fe.protection.inventory.minecraft.magma_cream.*                    # (default: true) INVENTORY Сгусток магмы
+fe.protection.inventory.minecraft.map.*                            # (default: true) INVENTORY Чистая карта
+fe.protection.inventory.minecraft.melon.*                          # (default: true) INVENTORY Арбуз
+fe.protection.inventory.minecraft.melon_seeds.*                    # (default: true) INVENTORY Семена арбуза
+fe.protection.inventory.minecraft.milk_bucket.*                    # (default: true) INVENTORY Молоко
+fe.protection.inventory.minecraft.minecart.*                       # (default: true) INVENTORY Вагонетка
+fe.protection.inventory.minecraft.mushroom_stew.*                  # (default: true) INVENTORY Тушеные грибы
+fe.protection.inventory.minecraft.name_tag.*                       # (default: true) INVENTORY Бирка
+fe.protection.inventory.minecraft.nether_star.*                    # (default: true) INVENTORY Адская звезда
+fe.protection.inventory.minecraft.nether_wart.*                    # (default: true) INVENTORY Адский нарост
+fe.protection.inventory.minecraft.netherbrick.*                    # (default: true) INVENTORY Адский кирпич
+fe.protection.inventory.minecraft.painting.*                       # (default: true) INVENTORY Картина
+fe.protection.inventory.minecraft.paper.*                          # (default: true) INVENTORY Бумага
+fe.protection.inventory.minecraft.poisonous_potato.*               # (default: true) INVENTORY Ядовитый картофель
+fe.protection.inventory.minecraft.porkchop.*                       # (default: true) INVENTORY Сырая свинина
+fe.protection.inventory.minecraft.potato.*                         # (default: true) INVENTORY Картофель
+fe.protection.inventory.minecraft.potion.*                         # (default: true) INVENTORY Пузырёк воды
+fe.protection.inventory.minecraft.pumpkin_pie.*                    # (default: true) INVENTORY Тыквенный пирог
+fe.protection.inventory.minecraft.pumpkin_seeds.*                  # (default: true) INVENTORY Семена тыквы
+fe.protection.inventory.minecraft.quartz.*                         # (default: true) INVENTORY Кварц
+fe.protection.inventory.minecraft.record_11.*                      # (default: true) INVENTORY Пластинка
+fe.protection.inventory.minecraft.record_13.*                      # (default: true) INVENTORY Пластинка
+fe.protection.inventory.minecraft.record_blocks.*                  # (default: true) INVENTORY Пластинка
+fe.protection.inventory.minecraft.record_cat.*                     # (default: true) INVENTORY Пластинка
+fe.protection.inventory.minecraft.record_chirp.*                   # (default: true) INVENTORY Пластинка
+fe.protection.inventory.minecraft.record_far.*                     # (default: true) INVENTORY Пластинка
+fe.protection.inventory.minecraft.record_mall.*                    # (default: true) INVENTORY Пластинка
+fe.protection.inventory.minecraft.record_mellohi.*                 # (default: true) INVENTORY Пластинка
+fe.protection.inventory.minecraft.record_stal.*                    # (default: true) INVENTORY Пластинка
+fe.protection.inventory.minecraft.record_strad.*                   # (default: true) INVENTORY Пластинка
+fe.protection.inventory.minecraft.record_wait.*                    # (default: true) INVENTORY Пластинка
+fe.protection.inventory.minecraft.record_ward.*                    # (default: true) INVENTORY Пластинка
+fe.protection.inventory.minecraft.redstone.*                       # (default: true) INVENTORY Красная пыль
+fe.protection.inventory.minecraft.reeds.*                          # (default: true) INVENTORY Сахарный тростник
+fe.protection.inventory.minecraft.repeater.*                       # (default: true) INVENTORY Повторитель
+fe.protection.inventory.minecraft.rotten_flesh.*                   # (default: true) INVENTORY Гнилая плоть
+fe.protection.inventory.minecraft.saddle.*                         # (default: true) INVENTORY Седло
+fe.protection.inventory.minecraft.shears.*                         # (default: true) INVENTORY Ножницы
+fe.protection.inventory.minecraft.sign.*                           # (default: true) INVENTORY Табличка
+fe.protection.inventory.minecraft.skull.*                          # (default: true) INVENTORY Череп
+fe.protection.inventory.minecraft.slime_ball.*                     # (default: true) INVENTORY Сгусток слизи
+fe.protection.inventory.minecraft.snowball.*                       # (default: true) INVENTORY Снежок
+fe.protection.inventory.minecraft.spawn_egg.*                      # (default: true) INVENTORY Призвать существо -
+fe.protection.inventory.minecraft.speckled_melon.*                 # (default: true) INVENTORY Сверкающий арбуз
+fe.protection.inventory.minecraft.spider_eye.*                     # (default: true) INVENTORY Паучий глаз
+fe.protection.inventory.minecraft.stick.*                          # (default: true) INVENTORY Палка
+fe.protection.inventory.minecraft.stone_axe.*                      # (default: true) INVENTORY Каменный топор
+fe.protection.inventory.minecraft.stone_hoe.*                      # (default: true) INVENTORY Каменная мотыга
+fe.protection.inventory.minecraft.stone_pickaxe.*                  # (default: true) INVENTORY Каменная кирка
+fe.protection.inventory.minecraft.stone_shovel.*                   # (default: true) INVENTORY Каменная лопата
+fe.protection.inventory.minecraft.stone_sword.*                    # (default: true) INVENTORY Каменный меч
+fe.protection.inventory.minecraft.string.*                         # (default: true) INVENTORY Нить
+fe.protection.inventory.minecraft.sugar.*                          # (default: true) INVENTORY Сахар
+fe.protection.inventory.minecraft.tnt_minecart.*                   # (default: true) INVENTORY Вагонетка с динамитом
+fe.protection.inventory.minecraft.water_bucket.*                   # (default: true) INVENTORY Ведро воды
+fe.protection.inventory.minecraft.wheat.*                          # (default: true) INVENTORY Пшеница
+fe.protection.inventory.minecraft.wheat_seeds.*                    # (default: true) INVENTORY Семена пшеницы
+fe.protection.inventory.minecraft.wooden_axe.*                     # (default: true) INVENTORY Деревянный топор
+fe.protection.inventory.minecraft.wooden_door.*                    # (default: true) INVENTORY Деревянная дверь
+fe.protection.inventory.minecraft.wooden_hoe.*                     # (default: true) INVENTORY Деревянная мотыга
+fe.protection.inventory.minecraft.wooden_pickaxe.*                 # (default: true) INVENTORY Деревянная кирка
+fe.protection.inventory.minecraft.wooden_shovel.*                  # (default: true) INVENTORY Деревянная лопата
+fe.protection.inventory.minecraft.wooden_sword.*                   # (default: true) INVENTORY Деревянный меч
+fe.protection.inventory.minecraft.writable_book.*                  # (default: true) INVENTORY Книга и перо
+fe.protection.inventory.minecraft.written_book.*                   # (default: true) INVENTORY Завершенная книга
+fe.protection.inventorygroup                                       # (default: default) Inventory group property - can be set to any identifier to separate inventories for certain regions
+fe.protection.use.*                                                # (default: true) Allow using items
+fe.protection.use.minecraft.apple.*                                # (default: true) USE Яблоко
+fe.protection.use.minecraft.arrow.*                                # (default: true) USE Стрела
+fe.protection.use.minecraft.baked_potato.*                         # (default: true) USE Печёный картофель
+fe.protection.use.minecraft.bed.*                                  # (default: true) USE Кровать
+fe.protection.use.minecraft.beef.*                                 # (default: true) USE Сырая говядина
+fe.protection.use.minecraft.blaze_powder.*                         # (default: true) USE Огненный порошок
+fe.protection.use.minecraft.blaze_rod.*                            # (default: true) USE Стержень ифрита
+fe.protection.use.minecraft.boat.*                                 # (default: true) USE Лодка
+fe.protection.use.minecraft.bone.*                                 # (default: true) USE Кость
+fe.protection.use.minecraft.book.*                                 # (default: true) USE Книга
+fe.protection.use.minecraft.bow.*                                  # (default: true) USE Лук
+fe.protection.use.minecraft.bowl.*                                 # (default: true) USE Миска
+fe.protection.use.minecraft.bread.*                                # (default: true) USE Хлеб
+fe.protection.use.minecraft.brewing_stand.*                        # (default: true) USE Варочная стойка
+fe.protection.use.minecraft.brick.*                                # (default: true) USE Кирпич
+fe.protection.use.minecraft.bucket.*                               # (default: true) USE Ведро
+fe.protection.use.minecraft.cake.*                                 # (default: true) USE Торт
+fe.protection.use.minecraft.carrot.*                               # (default: true) USE Морковь
+fe.protection.use.minecraft.carrot_on_a_stick.*                    # (default: true) USE Удочка с морковью
+fe.protection.use.minecraft.cauldron.*                             # (default: true) USE Котёл
+fe.protection.use.minecraft.chainmail_boots.*                      # (default: true) USE Кольчужные ботинки
+fe.protection.use.minecraft.chainmail_chestplate.*                 # (default: true) USE Кольчуга
+fe.protection.use.minecraft.chainmail_helmet.*                     # (default: true) USE Койф
+fe.protection.use.minecraft.chainmail_leggings.*                   # (default: true) USE Кольчужные поножи
+fe.protection.use.minecraft.chest_minecart.*                       # (default: true) USE Грузовая вагонетка
+fe.protection.use.minecraft.chicken.*                              # (default: true) USE Курятина
+fe.protection.use.minecraft.clay_ball.*                            # (default: true) USE Глина
+fe.protection.use.minecraft.clock.*                                # (default: true) USE Часы
+fe.protection.use.minecraft.coal.*                                 # (default: true) USE Уголь
+fe.protection.use.minecraft.command_block_minecart.*               # (default: true) USE Вагонетка с командным блоком
+fe.protection.use.minecraft.comparator.*                           # (default: true) USE Компаратор
+fe.protection.use.minecraft.compass.*                              # (default: true) USE Компас
+fe.protection.use.minecraft.cooked_beef.*                          # (default: true) USE Стейк
+fe.protection.use.minecraft.cooked_chicken.*                       # (default: true) USE Жареная курица
+fe.protection.use.minecraft.cooked_fished.*                        # (default: true) USE Приготовленная рыба
+fe.protection.use.minecraft.cooked_porkchop.*                      # (default: true) USE Жареная свинина
+fe.protection.use.minecraft.cookie.*                               # (default: true) USE Печенье
+fe.protection.use.minecraft.diamond.*                              # (default: true) USE Алмаз
+fe.protection.use.minecraft.diamond_axe.*                          # (default: true) USE Алмазный топор
+fe.protection.use.minecraft.diamond_boots.*                        # (default: true) USE Алмазные ботинки
+fe.protection.use.minecraft.diamond_chestplate.*                   # (default: true) USE Алмазный нагрудник
+fe.protection.use.minecraft.diamond_helmet.*                       # (default: true) USE Алмазный шлем
+fe.protection.use.minecraft.diamond_hoe.*                          # (default: true) USE Алмазная мотыга
+fe.protection.use.minecraft.diamond_horse_armor.*                  # (default: true) USE Алмазная конская броня
+fe.protection.use.minecraft.diamond_leggings.*                     # (default: true) USE Алмазные поножи
+fe.protection.use.minecraft.diamond_pickaxe.*                      # (default: true) USE Алмазная кирка
+fe.protection.use.minecraft.diamond_shovel.*                       # (default: true) USE Алмазная лопата
+fe.protection.use.minecraft.diamond_sword.*                        # (default: true) USE Алмазный меч
+fe.protection.use.minecraft.dye.*                                  # (default: true) USE Чернильный мешок
+fe.protection.use.minecraft.egg.*                                  # (default: true) USE Яйцо
+fe.protection.use.minecraft.emerald.*                              # (default: true) USE Изумруд
+fe.protection.use.minecraft.enchanted_book.*                       # (default: true) USE Зачарованная книга
+fe.protection.use.minecraft.ender_eye.*                            # (default: true) USE Око Эндера
+fe.protection.use.minecraft.ender_pearl.*                          # (default: true) USE Жемчуг Эндера
+fe.protection.use.minecraft.experience_bottle.*                    # (default: true) USE Пузырёк опыта
+fe.protection.use.minecraft.feather.*                              # (default: true) USE Перо
+fe.protection.use.minecraft.fermented_spider_eye.*                 # (default: true) USE Маринованный паучий глаз
+fe.protection.use.minecraft.filled_map.*                           # (default: true) USE Карта
+fe.protection.use.minecraft.fire_charge.*                          # (default: true) USE Огненный шар
+fe.protection.use.minecraft.firework_charge.*                      # (default: true) USE Звёздочка
+fe.protection.use.minecraft.fireworks.*                            # (default: true) USE Фейерверк
+fe.protection.use.minecraft.fish.*                                 # (default: true) USE Сырая рыба
+fe.protection.use.minecraft.fishing_rod.*                          # (default: true) USE Удочка
+fe.protection.use.minecraft.flint.*                                # (default: true) USE Кремень
+fe.protection.use.minecraft.flint_and_steel.*                      # (default: true) USE Огниво
+fe.protection.use.minecraft.flower_pot.*                           # (default: true) USE Цветочный горшок
+fe.protection.use.minecraft.furnace_minecart.*                     # (default: true) USE Самоходная вагонетка
+fe.protection.use.minecraft.ghast_tear.*                           # (default: true) USE Слеза Гаста
+fe.protection.use.minecraft.glass_bottle.*                         # (default: true) USE Пузырёк
+fe.protection.use.minecraft.glowstone_dust.*                       # (default: true) USE Светящаяся пыль
+fe.protection.use.minecraft.gold_ingot.*                           # (default: true) USE Золотой слиток
+fe.protection.use.minecraft.gold_nugget.*                          # (default: true) USE Золотой самородок
+fe.protection.use.minecraft.golden_apple.*                         # (default: true) USE Золотое яблоко
+fe.protection.use.minecraft.golden_axe.*                           # (default: true) USE Золотой топор
+fe.protection.use.minecraft.golden_boots.*                         # (default: true) USE Золотые ботинки
+fe.protection.use.minecraft.golden_carrot.*                        # (default: true) USE Золотая морковь
+fe.protection.use.minecraft.golden_chestplate.*                    # (default: true) USE Золотой нагрудник
+fe.protection.use.minecraft.golden_helmet.*                        # (default: true) USE Золотой шлем
+fe.protection.use.minecraft.golden_hoe.*                           # (default: true) USE Золотая мотыга
+fe.protection.use.minecraft.golden_horse_armor.*                   # (default: true) USE Золотая конская броня
+fe.protection.use.minecraft.golden_leggings.*                      # (default: true) USE Золотые поножи
+fe.protection.use.minecraft.golden_pickaxe.*                       # (default: true) USE Золотая кирка
+fe.protection.use.minecraft.golden_shovel.*                        # (default: true) USE Золотая лопата
+fe.protection.use.minecraft.golden_sword.*                         # (default: true) USE Золотой меч
+fe.protection.use.minecraft.gunpowder.*                            # (default: true) USE Порох
+fe.protection.use.minecraft.hopper_minecart.*                      # (default: true) USE Вагонетка с загрузочной воронкой
+fe.protection.use.minecraft.iron_axe.*                             # (default: true) USE Железный топор
+fe.protection.use.minecraft.iron_boots.*                           # (default: true) USE Железные ботинки
+fe.protection.use.minecraft.iron_chestplate.*                      # (default: true) USE Железный нагрудник
+fe.protection.use.minecraft.iron_door.*                            # (default: true) USE Железная дверь
+fe.protection.use.minecraft.iron_helmet.*                          # (default: true) USE Железный шлем
+fe.protection.use.minecraft.iron_hoe.*                             # (default: true) USE Железная мотыга
+fe.protection.use.minecraft.iron_horse_armor.*                     # (default: true) USE Железная конская броня
+fe.protection.use.minecraft.iron_ingot.*                           # (default: true) USE Железный слиток
+fe.protection.use.minecraft.iron_leggings.*                        # (default: true) USE Железные поножи
+fe.protection.use.minecraft.iron_pickaxe.*                         # (default: true) USE Железная кирка
+fe.protection.use.minecraft.iron_shovel.*                          # (default: true) USE Железная лопата
+fe.protection.use.minecraft.iron_sword.*                           # (default: true) USE Железный меч
+fe.protection.use.minecraft.item_frame.*                           # (default: true) USE Рамка
+fe.protection.use.minecraft.lava_bucket.*                          # (default: true) USE Ведро лавы
+fe.protection.use.minecraft.lead.*                                 # (default: true) USE Поводок
+fe.protection.use.minecraft.leather.*                              # (default: true) USE Кожа
+fe.protection.use.minecraft.leather_boots.*                        # (default: true) USE Кожаные ботинки
+fe.protection.use.minecraft.leather_chestplate.*                   # (default: true) USE Кожаная куртка
+fe.protection.use.minecraft.leather_helmet.*                       # (default: true) USE Кожаный шлем
+fe.protection.use.minecraft.leather_leggings.*                     # (default: true) USE Кожаные штаны
+fe.protection.use.minecraft.magma_cream.*                          # (default: true) USE Сгусток магмы
+fe.protection.use.minecraft.map.*                                  # (default: true) USE Чистая карта
+fe.protection.use.minecraft.melon.*                                # (default: true) USE Арбуз
+fe.protection.use.minecraft.melon_seeds.*                          # (default: true) USE Семена арбуза
+fe.protection.use.minecraft.milk_bucket.*                          # (default: true) USE Молоко
+fe.protection.use.minecraft.minecart.*                             # (default: true) USE Вагонетка
+fe.protection.use.minecraft.mushroom_stew.*                        # (default: true) USE Тушеные грибы
+fe.protection.use.minecraft.name_tag.*                             # (default: true) USE Бирка
+fe.protection.use.minecraft.nether_star.*                          # (default: true) USE Адская звезда
+fe.protection.use.minecraft.nether_wart.*                          # (default: true) USE Адский нарост
+fe.protection.use.minecraft.netherbrick.*                          # (default: true) USE Адский кирпич
+fe.protection.use.minecraft.painting.*                             # (default: true) USE Картина
+fe.protection.use.minecraft.paper.*                                # (default: true) USE Бумага
+fe.protection.use.minecraft.poisonous_potato.*                     # (default: true) USE Ядовитый картофель
+fe.protection.use.minecraft.porkchop.*                             # (default: true) USE Сырая свинина
+fe.protection.use.minecraft.potato.*                               # (default: true) USE Картофель
+fe.protection.use.minecraft.potion.*                               # (default: true) USE Пузырёк воды
+fe.protection.use.minecraft.pumpkin_pie.*                          # (default: true) USE Тыквенный пирог
+fe.protection.use.minecraft.pumpkin_seeds.*                        # (default: true) USE Семена тыквы
+fe.protection.use.minecraft.quartz.*                               # (default: true) USE Кварц
+fe.protection.use.minecraft.record_11.*                            # (default: true) USE Пластинка
+fe.protection.use.minecraft.record_13.*                            # (default: true) USE Пластинка
+fe.protection.use.minecraft.record_blocks.*                        # (default: true) USE Пластинка
+fe.protection.use.minecraft.record_cat.*                           # (default: true) USE Пластинка
+fe.protection.use.minecraft.record_chirp.*                         # (default: true) USE Пластинка
+fe.protection.use.minecraft.record_far.*                           # (default: true) USE Пластинка
+fe.protection.use.minecraft.record_mall.*                          # (default: true) USE Пластинка
+fe.protection.use.minecraft.record_mellohi.*                       # (default: true) USE Пластинка
+fe.protection.use.minecraft.record_stal.*                          # (default: true) USE Пластинка
+fe.protection.use.minecraft.record_strad.*                         # (default: true) USE Пластинка
+fe.protection.use.minecraft.record_wait.*                          # (default: true) USE Пластинка
+fe.protection.use.minecraft.record_ward.*                          # (default: true) USE Пластинка
+fe.protection.use.minecraft.redstone.*                             # (default: true) USE Красная пыль
+fe.protection.use.minecraft.reeds.*                                # (default: true) USE Сахарный тростник
+fe.protection.use.minecraft.repeater.*                             # (default: true) USE Повторитель
+fe.protection.use.minecraft.rotten_flesh.*                         # (default: true) USE Гнилая плоть
+fe.protection.use.minecraft.saddle.*                               # (default: true) USE Седло
+fe.protection.use.minecraft.shears.*                               # (default: true) USE Ножницы
+fe.protection.use.minecraft.sign.*                                 # (default: true) USE Табличка
+fe.protection.use.minecraft.skull.*                                # (default: true) USE Череп
+fe.protection.use.minecraft.slime_ball.*                           # (default: true) USE Сгусток слизи
+fe.protection.use.minecraft.snowball.*                             # (default: true) USE Снежок
+fe.protection.use.minecraft.spawn_egg.*                            # (default: true) USE Призвать существо -
+fe.protection.use.minecraft.speckled_melon.*                       # (default: true) USE Сверкающий арбуз
+fe.protection.use.minecraft.spider_eye.*                           # (default: true) USE Паучий глаз
+fe.protection.use.minecraft.stick.*                                # (default: true) USE Палка
+fe.protection.use.minecraft.stone_axe.*                            # (default: true) USE Каменный топор
+fe.protection.use.minecraft.stone_hoe.*                            # (default: true) USE Каменная мотыга
+fe.protection.use.minecraft.stone_pickaxe.*                        # (default: true) USE Каменная кирка
+fe.protection.use.minecraft.stone_shovel.*                         # (default: true) USE Каменная лопата
+fe.protection.use.minecraft.stone_sword.*                          # (default: true) USE Каменный меч
+fe.protection.use.minecraft.string.*                               # (default: true) USE Нить
+fe.protection.use.minecraft.sugar.*                                # (default: true) USE Сахар
+fe.protection.use.minecraft.tnt_minecart.*                         # (default: true) USE Вагонетка с динамитом
+fe.protection.use.minecraft.water_bucket.*                         # (default: true) USE Ведро воды
+fe.protection.use.minecraft.wheat.*                                # (default: true) USE Пшеница
+fe.protection.use.minecraft.wheat_seeds.*                          # (default: true) USE Семена пшеницы
+fe.protection.use.minecraft.wooden_axe.*                           # (default: true) USE Деревянный топор
+fe.protection.use.minecraft.wooden_door.*                          # (default: true) USE Деревянная дверь
+fe.protection.use.minecraft.wooden_hoe.*                           # (default: true) USE Деревянная мотыга
+fe.protection.use.minecraft.wooden_pickaxe.*                       # (default: true) USE Деревянная кирка
+fe.protection.use.minecraft.wooden_shovel.*                        # (default: true) USE Деревянная лопата
+fe.protection.use.minecraft.wooden_sword.*                         # (default: true) USE Деревянный меч
+fe.protection.use.minecraft.writable_book.*                        # (default: true) USE Книга и перо
+fe.protection.use.minecraft.written_book.*                         # (default: true) USE Завершенная книга

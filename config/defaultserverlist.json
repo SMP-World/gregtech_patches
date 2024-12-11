@@ -1,0 +1,11 @@
+{
+  "useURL": true,
+  "allowModifications": true,
+  "url": "https://raw.githubusercontent.com/SMP-World/GTNH_serverlist/refs/heads/main/servers.json",
+  "servers": {
+    "SMP WORLD | BETA | GregTech: New Horizons": "77.51.212.215:25567"
+},
+  "DO_NOT_EDIT_prevDefaultServers": [
+    "77.51.212.215:25567"
+  ]
+}

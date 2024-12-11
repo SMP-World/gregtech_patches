@@ -1,0 +1,865 @@
+#// -------- PERMISSIONS LIST BLOCKS ------- \\#
+#// --------------- 11.12 17:33 ------------ \\#
+#// ----------- Total amount: 2146 --------- \\#
+#// ---------------------------------------- \\#
+fe.protection.break.*                                              # (default: true) Allow breaking blocks
+fe.protection.break.minecraft.acacia_stairs.*                      # (default: true) BREAK Ступеньки из древесины акации
+fe.protection.break.minecraft.activator_rail.*                     # (default: true) BREAK Активирующие рельсы
+fe.protection.break.minecraft.air.*                                # (default: true) BREAK tile.air.name
+fe.protection.break.minecraft.anvil.*                              # (default: true) BREAK Наковальня
+fe.protection.break.minecraft.beacon.*                             # (default: true) BREAK Маяк
+fe.protection.break.minecraft.bed.*                                # (default: true) BREAK Кровать
+fe.protection.break.minecraft.bedrock.*                            # (default: true) BREAK Бедрок
+fe.protection.break.minecraft.birch_stairs.*                       # (default: true) BREAK Березовые ступеньки
+fe.protection.break.minecraft.bookshelf.*                          # (default: true) BREAK Книжная полка
+fe.protection.break.minecraft.brewing_stand.*                      # (default: true) BREAK tile.brewingStand.name
+fe.protection.break.minecraft.brick_block.*                        # (default: true) BREAK Кирпичи
+fe.protection.break.minecraft.brick_stairs.*                       # (default: true) BREAK Кирпичные ступеньки
+fe.protection.break.minecraft.brown_mushroom.*                     # (default: true) BREAK Гриб
+fe.protection.break.minecraft.brown_mushroom_block.*               # (default: true) BREAK Гриб
+fe.protection.break.minecraft.cactus.*                             # (default: true) BREAK Кактус
+fe.protection.break.minecraft.cake.*                               # (default: true) BREAK Торт
+fe.protection.break.minecraft.carpet.*                             # (default: true) BREAK tile.woolCarpet.name
+fe.protection.break.minecraft.carrots.*                            # (default: true) BREAK Морковь
+fe.protection.break.minecraft.cauldron.*                           # (default: true) BREAK Котёл
+fe.protection.break.minecraft.chest.*                              # (default: true) BREAK Сундук
+fe.protection.break.minecraft.clay.*                               # (default: true) BREAK Глина
+fe.protection.break.minecraft.coal_block.*                         # (default: true) BREAK Угольный блок
+fe.protection.break.minecraft.coal_ore.*                           # (default: true) BREAK Уголь
+fe.protection.break.minecraft.cobblestone.*                        # (default: true) BREAK Булыжник
+fe.protection.break.minecraft.cobblestone_wall.*                   # (default: true) BREAK tile.cobbleWall.name
+fe.protection.break.minecraft.cocoa.*                              # (default: true) BREAK Какао
+fe.protection.break.minecraft.command_block.*                      # (default: true) BREAK Командный блок
+fe.protection.break.minecraft.crafting_table.*                     # (default: true) BREAK Верстак
+fe.protection.break.minecraft.dark_oak_stairs.*                    # (default: true) BREAK Ступеньки из тёмного дуба
+fe.protection.break.minecraft.daylight_detector.*                  # (default: true) BREAK Датчик дневного света
+fe.protection.break.minecraft.deadbush.*                           # (default: true) BREAK Мертвый куст
+fe.protection.break.minecraft.detector_rail.*                      # (default: true) BREAK Рельсы с датчиком
+fe.protection.break.minecraft.diamond_block.*                      # (default: true) BREAK Алмазный блок
+fe.protection.break.minecraft.diamond_ore.*                        # (default: true) BREAK Алмазная руда
+fe.protection.break.minecraft.dirt.*                               # (default: true) BREAK tile.dirt.name
+fe.protection.break.minecraft.dispenser.*                          # (default: true) BREAK Раздатчик
+fe.protection.break.minecraft.double_plant.*                       # (default: true) BREAK tile.doublePlant.name
+fe.protection.break.minecraft.double_stone_slab.*                  # (default: true) BREAK tile.stoneSlab.name
+fe.protection.break.minecraft.double_wooden_slab.*                 # (default: true) BREAK tile.woodSlab.name
+fe.protection.break.minecraft.dragon_egg.*                         # (default: true) BREAK Яйцо дракона
+fe.protection.break.minecraft.dropper.*                            # (default: true) BREAK Выбрасыватель
+fe.protection.break.minecraft.emerald_block.*                      # (default: true) BREAK Изумрудный блок
+fe.protection.break.minecraft.emerald_ore.*                        # (default: true) BREAK Изумрудная руда
+fe.protection.break.minecraft.enchanting_table.*                   # (default: true) BREAK Стол зачарований
+fe.protection.break.minecraft.end_portal.*                         # (default: true) BREAK tile.null.name
+fe.protection.break.minecraft.end_portal_frame.*                   # (default: true) BREAK Портал в Энд
+fe.protection.break.minecraft.end_stone.*                          # (default: true) BREAK Эндерняк
+fe.protection.break.minecraft.ender_chest.*                        # (default: true) BREAK Сундук Эндера
+fe.protection.break.minecraft.farmland.*                           # (default: true) BREAK Пашня
+fe.protection.break.minecraft.fence.*                              # (default: true) BREAK Забор
+fe.protection.break.minecraft.fence_gate.*                         # (default: true) BREAK Калитка
+fe.protection.break.minecraft.fire.*                               # (default: true) BREAK Огонь
+fe.protection.break.minecraft.flower_pot.*                         # (default: true) BREAK tile.flowerPot.name
+fe.protection.break.minecraft.flowing_lava.*                       # (default: true) BREAK Лава
+fe.protection.break.minecraft.flowing_water.*                      # (default: true) BREAK Вода
+fe.protection.break.minecraft.furnace.*                            # (default: true) BREAK Печь
+fe.protection.break.minecraft.glass.*                              # (default: true) BREAK Стекло
+fe.protection.break.minecraft.glass_pane.*                         # (default: true) BREAK Стеклянная панель
+fe.protection.break.minecraft.glowstone.*                          # (default: true) BREAK Светящийся камень
+fe.protection.break.minecraft.gold_block.*                         # (default: true) BREAK Золотой блок
+fe.protection.break.minecraft.gold_ore.*                           # (default: true) BREAK Золотая руда
+fe.protection.break.minecraft.golden_rail.*                        # (default: true) BREAK Энергорельсы
+fe.protection.break.minecraft.grass.*                              # (default: true) BREAK Блок травы
+fe.protection.break.minecraft.gravel.*                             # (default: true) BREAK Гравий
+fe.protection.break.minecraft.hardened_clay.*                      # (default: true) BREAK Обожжёная глина
+fe.protection.break.minecraft.hay_block.*                          # (default: true) BREAK Сноп сена
+fe.protection.break.minecraft.heavy_weighted_pressure_plate.*      # (default: true) BREAK Утяжелённая нажимная пластина (Тяжёлая)
+fe.protection.break.minecraft.hopper.*                             # (default: true) BREAK Воронка
+fe.protection.break.minecraft.ice.*                                # (default: true) BREAK Лёд
+fe.protection.break.minecraft.iron_bars.*                          # (default: true) BREAK Железные прутья
+fe.protection.break.minecraft.iron_block.*                         # (default: true) BREAK Железный блок
+fe.protection.break.minecraft.iron_door.*                          # (default: true) BREAK Железная дверь
+fe.protection.break.minecraft.iron_ore.*                           # (default: true) BREAK Железная руда
+fe.protection.break.minecraft.jukebox.*                            # (default: true) BREAK Проигрыватель
+fe.protection.break.minecraft.jungle_stairs.*                      # (default: true) BREAK Ступеньки из тропической древесины
+fe.protection.break.minecraft.ladder.*                             # (default: true) BREAK Лестница
+fe.protection.break.minecraft.lapis_block.*                        # (default: true) BREAK Блок лазурита
+fe.protection.break.minecraft.lapis_ore.*                          # (default: true) BREAK Лазуритовая руда
+fe.protection.break.minecraft.lava.*                               # (default: true) BREAK Лава
+fe.protection.break.minecraft.leaves.*                             # (default: true) BREAK Листья
+fe.protection.break.minecraft.leaves2.*                            # (default: true) BREAK Листья
+fe.protection.break.minecraft.lever.*                              # (default: true) BREAK Рычаг
+fe.protection.break.minecraft.light_weighted_pressure_plate.*      # (default: true) BREAK Утяжелённая нажимная пластина (Лёгкая)
+fe.protection.break.minecraft.lit_furnace.*                        # (default: true) BREAK Печь
+fe.protection.break.minecraft.lit_pumpkin.*                        # (default: true) BREAK Светильник Джека
+fe.protection.break.minecraft.lit_redstone_lamp.*                  # (default: true) BREAK Лампа
+fe.protection.break.minecraft.lit_redstone_ore.*                   # (default: true) BREAK Красная руда
+fe.protection.break.minecraft.log.*                                # (default: true) BREAK Дерево
+fe.protection.break.minecraft.log2.*                               # (default: true) BREAK Дерево
+fe.protection.break.minecraft.melon_block.*                        # (default: true) BREAK Арбуз
+fe.protection.break.minecraft.melon_stem.*                         # (default: true) BREAK tile.pumpkinStem.name
+fe.protection.break.minecraft.mob_spawner.*                        # (default: true) BREAK Рассадник монстров
+fe.protection.break.minecraft.monster_egg.*                        # (default: true) BREAK tile.monsterStoneEgg.name
+fe.protection.break.minecraft.mossy_cobblestone.*                  # (default: true) BREAK Замшелый булыжник
+fe.protection.break.minecraft.mycelium.*                           # (default: true) BREAK Мицелий
+fe.protection.break.minecraft.nether_brick.*                       # (default: true) BREAK Адские кирпичи
+fe.protection.break.minecraft.nether_brick_fence.*                 # (default: true) BREAK Адский забор
+fe.protection.break.minecraft.nether_brick_stairs.*                # (default: true) BREAK Адские ступеньки
+fe.protection.break.minecraft.nether_wart.*                        # (default: true) BREAK Адский нарост
+fe.protection.break.minecraft.netherrack.*                         # (default: true) BREAK Адский камень
+fe.protection.break.minecraft.noteblock.*                          # (default: true) BREAK Нотный блок
+fe.protection.break.minecraft.oak_stairs.*                         # (default: true) BREAK Дубовые ступеньки
+fe.protection.break.minecraft.obsidian.*                           # (default: true) BREAK Обсидиан
+fe.protection.break.minecraft.packed_ice.*                         # (default: true) BREAK Плотный лёд
+fe.protection.break.minecraft.piston.*                             # (default: true) BREAK Поршень
+fe.protection.break.minecraft.piston_extension.*                   # (default: true) BREAK tile.null.name
+fe.protection.break.minecraft.piston_head.*                        # (default: true) BREAK tile.null.name
+fe.protection.break.minecraft.planks.*                             # (default: true) BREAK Доски
+fe.protection.break.minecraft.portal.*                             # (default: true) BREAK Портал
+fe.protection.break.minecraft.potatoes.*                           # (default: true) BREAK Картофель
+fe.protection.break.minecraft.powered_comparator.*                 # (default: true) BREAK tile.comparator.name
+fe.protection.break.minecraft.powered_repeater.*                   # (default: true) BREAK tile.diode.name
+fe.protection.break.minecraft.pumpkin.*                            # (default: true) BREAK Тыква
+fe.protection.break.minecraft.pumpkin_stem.*                       # (default: true) BREAK tile.pumpkinStem.name
+fe.protection.break.minecraft.quartz_block.*                       # (default: true) BREAK tile.quartzBlock.name
+fe.protection.break.minecraft.quartz_ore.*                         # (default: true) BREAK Кварцевая руда
+fe.protection.break.minecraft.quartz_stairs.*                      # (default: true) BREAK Кварцевые ступеньки
+fe.protection.break.minecraft.rail.*                               # (default: true) BREAK Рельсы
+fe.protection.break.minecraft.red_flower.*                         # (default: true) BREAK tile.flower2.name
+fe.protection.break.minecraft.red_mushroom.*                       # (default: true) BREAK Гриб
+fe.protection.break.minecraft.red_mushroom_block.*                 # (default: true) BREAK Гриб
+fe.protection.break.minecraft.redstone_block.*                     # (default: true) BREAK Блок красного камня
+fe.protection.break.minecraft.redstone_lamp.*                      # (default: true) BREAK Лампа
+fe.protection.break.minecraft.redstone_ore.*                       # (default: true) BREAK Красная руда
+fe.protection.break.minecraft.redstone_torch.*                     # (default: true) BREAK Красный факел
+fe.protection.break.minecraft.redstone_wire.*                      # (default: true) BREAK Красная пыль
+fe.protection.break.minecraft.reeds.*                              # (default: true) BREAK Сахарный тростник
+fe.protection.break.minecraft.sand.*                               # (default: true) BREAK tile.sand.name
+fe.protection.break.minecraft.sandstone.*                          # (default: true) BREAK Песчаник
+fe.protection.break.minecraft.sandstone_stairs.*                   # (default: true) BREAK Ступеньки из песчаника
+fe.protection.break.minecraft.sapling.*                            # (default: true) BREAK tile.sapling.name
+fe.protection.break.minecraft.skull.*                              # (default: true) BREAK tile.skull.name
+fe.protection.break.minecraft.snow.*                               # (default: true) BREAK Снег
+fe.protection.break.minecraft.snow_layer.*                         # (default: true) BREAK Снег
+fe.protection.break.minecraft.soul_sand.*                          # (default: true) BREAK Песок душ
+fe.protection.break.minecraft.sponge.*                             # (default: true) BREAK Губка
+fe.protection.break.minecraft.spruce_stairs.*                      # (default: true) BREAK Еловые ступеньки
+fe.protection.break.minecraft.stained_glass.*                      # (default: true) BREAK Окрашенное стекло
+fe.protection.break.minecraft.stained_glass_pane.*                 # (default: true) BREAK Окрашенная стеклянная панель
+fe.protection.break.minecraft.stained_hardened_clay.*              # (default: true) BREAK tile.clayHardenedStained.name
+fe.protection.break.minecraft.standing_sign.*                      # (default: true) BREAK Табличка
+fe.protection.break.minecraft.sticky_piston.*                      # (default: true) BREAK Липкий поршень
+fe.protection.break.minecraft.stone.*                              # (default: true) BREAK Камень
+fe.protection.break.minecraft.stone_brick_stairs.*                 # (default: true) BREAK Ступеньки из каменного кирпича
+fe.protection.break.minecraft.stone_button.*                       # (default: true) BREAK Кнопка
+fe.protection.break.minecraft.stone_pressure_plate.*               # (default: true) BREAK Нажимная плита
+fe.protection.break.minecraft.stone_slab.*                         # (default: true) BREAK tile.stoneSlab.name
+fe.protection.break.minecraft.stone_stairs.*                       # (default: true) BREAK Ступеньки из булыжника
+fe.protection.break.minecraft.stonebrick.*                         # (default: true) BREAK Каменные кирпичи
+fe.protection.break.minecraft.tallgrass.*                          # (default: true) BREAK Трава
+fe.protection.break.minecraft.tnt.*                                # (default: true) BREAK Динамит
+fe.protection.break.minecraft.torch.*                              # (default: true) BREAK Факел
+fe.protection.break.minecraft.trapdoor.*                           # (default: true) BREAK Люк
+fe.protection.break.minecraft.trapped_chest.*                      # (default: true) BREAK Сундук-ловушка
+fe.protection.break.minecraft.tripwire.*                           # (default: true) BREAK Растяжка
+fe.protection.break.minecraft.tripwire_hook.*                      # (default: true) BREAK Крюк
+fe.protection.break.minecraft.unlit_redstone_torch.*               # (default: true) BREAK Красный факел
+fe.protection.break.minecraft.unpowered_comparator.*               # (default: true) BREAK tile.comparator.name
+fe.protection.break.minecraft.unpowered_repeater.*                 # (default: true) BREAK tile.diode.name
+fe.protection.break.minecraft.vine.*                               # (default: true) BREAK Лоза
+fe.protection.break.minecraft.wall_sign.*                          # (default: true) BREAK Табличка
+fe.protection.break.minecraft.water.*                              # (default: true) BREAK Вода
+fe.protection.break.minecraft.waterlily.*                          # (default: true) BREAK Кувшинка
+fe.protection.break.minecraft.web.*                                # (default: true) BREAK Паутина
+fe.protection.break.minecraft.wheat.*                              # (default: true) BREAK Всходы
+fe.protection.break.minecraft.wooden_button.*                      # (default: true) BREAK Кнопка
+fe.protection.break.minecraft.wooden_door.*                        # (default: true) BREAK Деревянная дверь
+fe.protection.break.minecraft.wooden_pressure_plate.*              # (default: true) BREAK Нажимная плита
+fe.protection.break.minecraft.wooden_slab.*                        # (default: true) BREAK tile.woodSlab.name
+fe.protection.break.minecraft.wool.*                               # (default: true) BREAK Шерсть
+fe.protection.break.minecraft.yellow_flower.*                      # (default: true) BREAK tile.flower1.name
+fe.protection.explode.*                                            # (default: true) (global) Allows blocks to explode
+fe.protection.explode.minecraft.acacia_stairs.*                    # (default: true) EXPLODE Ступеньки из древесины акации
+fe.protection.explode.minecraft.activator_rail.*                   # (default: true) EXPLODE Активирующие рельсы
+fe.protection.explode.minecraft.air.*                              # (default: true) EXPLODE tile.air.name
+fe.protection.explode.minecraft.anvil.*                            # (default: true) EXPLODE Наковальня
+fe.protection.explode.minecraft.beacon.*                           # (default: true) EXPLODE Маяк
+fe.protection.explode.minecraft.bed.*                              # (default: true) EXPLODE Кровать
+fe.protection.explode.minecraft.bedrock.*                          # (default: true) EXPLODE Бедрок
+fe.protection.explode.minecraft.birch_stairs.*                     # (default: true) EXPLODE Березовые ступеньки
+fe.protection.explode.minecraft.bookshelf.*                        # (default: true) EXPLODE Книжная полка
+fe.protection.explode.minecraft.brewing_stand.*                    # (default: true) EXPLODE tile.brewingStand.name
+fe.protection.explode.minecraft.brick_block.*                      # (default: true) EXPLODE Кирпичи
+fe.protection.explode.minecraft.brick_stairs.*                     # (default: true) EXPLODE Кирпичные ступеньки
+fe.protection.explode.minecraft.brown_mushroom.*                   # (default: true) EXPLODE Гриб
+fe.protection.explode.minecraft.brown_mushroom_block.*             # (default: true) EXPLODE Гриб
+fe.protection.explode.minecraft.cactus.*                           # (default: true) EXPLODE Кактус
+fe.protection.explode.minecraft.cake.*                             # (default: true) EXPLODE Торт
+fe.protection.explode.minecraft.carpet.*                           # (default: true) EXPLODE tile.woolCarpet.name
+fe.protection.explode.minecraft.carrots.*                          # (default: true) EXPLODE Морковь
+fe.protection.explode.minecraft.cauldron.*                         # (default: true) EXPLODE Котёл
+fe.protection.explode.minecraft.chest.*                            # (default: true) EXPLODE Сундук
+fe.protection.explode.minecraft.clay.*                             # (default: true) EXPLODE Глина
+fe.protection.explode.minecraft.coal_block.*                       # (default: true) EXPLODE Угольный блок
+fe.protection.explode.minecraft.coal_ore.*                         # (default: true) EXPLODE Уголь
+fe.protection.explode.minecraft.cobblestone.*                      # (default: true) EXPLODE Булыжник
+fe.protection.explode.minecraft.cobblestone_wall.*                 # (default: true) EXPLODE tile.cobbleWall.name
+fe.protection.explode.minecraft.cocoa.*                            # (default: true) EXPLODE Какао
+fe.protection.explode.minecraft.command_block.*                    # (default: true) EXPLODE Командный блок
+fe.protection.explode.minecraft.crafting_table.*                   # (default: true) EXPLODE Верстак
+fe.protection.explode.minecraft.dark_oak_stairs.*                  # (default: true) EXPLODE Ступеньки из тёмного дуба
+fe.protection.explode.minecraft.daylight_detector.*                # (default: true) EXPLODE Датчик дневного света
+fe.protection.explode.minecraft.deadbush.*                         # (default: true) EXPLODE Мертвый куст
+fe.protection.explode.minecraft.detector_rail.*                    # (default: true) EXPLODE Рельсы с датчиком
+fe.protection.explode.minecraft.diamond_block.*                    # (default: true) EXPLODE Алмазный блок
+fe.protection.explode.minecraft.diamond_ore.*                      # (default: true) EXPLODE Алмазная руда
+fe.protection.explode.minecraft.dirt.*                             # (default: true) EXPLODE tile.dirt.name
+fe.protection.explode.minecraft.dispenser.*                        # (default: true) EXPLODE Раздатчик
+fe.protection.explode.minecraft.double_plant.*                     # (default: true) EXPLODE tile.doublePlant.name
+fe.protection.explode.minecraft.double_stone_slab.*                # (default: true) EXPLODE tile.stoneSlab.name
+fe.protection.explode.minecraft.double_wooden_slab.*               # (default: true) EXPLODE tile.woodSlab.name
+fe.protection.explode.minecraft.dragon_egg.*                       # (default: true) EXPLODE Яйцо дракона
+fe.protection.explode.minecraft.dropper.*                          # (default: true) EXPLODE Выбрасыватель
+fe.protection.explode.minecraft.emerald_block.*                    # (default: true) EXPLODE Изумрудный блок
+fe.protection.explode.minecraft.emerald_ore.*                      # (default: true) EXPLODE Изумрудная руда
+fe.protection.explode.minecraft.enchanting_table.*                 # (default: true) EXPLODE Стол зачарований
+fe.protection.explode.minecraft.end_portal.*                       # (default: true) EXPLODE tile.null.name
+fe.protection.explode.minecraft.end_portal_frame.*                 # (default: true) EXPLODE Портал в Энд
+fe.protection.explode.minecraft.end_stone.*                        # (default: true) EXPLODE Эндерняк
+fe.protection.explode.minecraft.ender_chest.*                      # (default: true) EXPLODE Сундук Эндера
+fe.protection.explode.minecraft.farmland.*                         # (default: true) EXPLODE Пашня
+fe.protection.explode.minecraft.fence.*                            # (default: true) EXPLODE Забор
+fe.protection.explode.minecraft.fence_gate.*                       # (default: true) EXPLODE Калитка
+fe.protection.explode.minecraft.fire.*                             # (default: true) EXPLODE Огонь
+fe.protection.explode.minecraft.flower_pot.*                       # (default: true) EXPLODE tile.flowerPot.name
+fe.protection.explode.minecraft.flowing_lava.*                     # (default: true) EXPLODE Лава
+fe.protection.explode.minecraft.flowing_water.*                    # (default: true) EXPLODE Вода
+fe.protection.explode.minecraft.furnace.*                          # (default: true) EXPLODE Печь
+fe.protection.explode.minecraft.glass.*                            # (default: true) EXPLODE Стекло
+fe.protection.explode.minecraft.glass_pane.*                       # (default: true) EXPLODE Стеклянная панель
+fe.protection.explode.minecraft.glowstone.*                        # (default: true) EXPLODE Светящийся камень
+fe.protection.explode.minecraft.gold_block.*                       # (default: true) EXPLODE Золотой блок
+fe.protection.explode.minecraft.gold_ore.*                         # (default: true) EXPLODE Золотая руда
+fe.protection.explode.minecraft.golden_rail.*                      # (default: true) EXPLODE Энергорельсы
+fe.protection.explode.minecraft.grass.*                            # (default: true) EXPLODE Блок травы
+fe.protection.explode.minecraft.gravel.*                           # (default: true) EXPLODE Гравий
+fe.protection.explode.minecraft.hardened_clay.*                    # (default: true) EXPLODE Обожжёная глина
+fe.protection.explode.minecraft.hay_block.*                        # (default: true) EXPLODE Сноп сена
+fe.protection.explode.minecraft.heavy_weighted_pressure_plate.*    # (default: true) EXPLODE Утяжелённая нажимная пластина (Тяжёлая)
+fe.protection.explode.minecraft.hopper.*                           # (default: true) EXPLODE Воронка
+fe.protection.explode.minecraft.ice.*                              # (default: true) EXPLODE Лёд
+fe.protection.explode.minecraft.iron_bars.*                        # (default: true) EXPLODE Железные прутья
+fe.protection.explode.minecraft.iron_block.*                       # (default: true) EXPLODE Железный блок
+fe.protection.explode.minecraft.iron_door.*                        # (default: true) EXPLODE Железная дверь
+fe.protection.explode.minecraft.iron_ore.*                         # (default: true) EXPLODE Железная руда
+fe.protection.explode.minecraft.jukebox.*                          # (default: true) EXPLODE Проигрыватель
+fe.protection.explode.minecraft.jungle_stairs.*                    # (default: true) EXPLODE Ступеньки из тропической древесины
+fe.protection.explode.minecraft.ladder.*                           # (default: true) EXPLODE Лестница
+fe.protection.explode.minecraft.lapis_block.*                      # (default: true) EXPLODE Блок лазурита
+fe.protection.explode.minecraft.lapis_ore.*                        # (default: true) EXPLODE Лазуритовая руда
+fe.protection.explode.minecraft.lava.*                             # (default: true) EXPLODE Лава
+fe.protection.explode.minecraft.leaves.*                           # (default: true) EXPLODE Листья
+fe.protection.explode.minecraft.leaves2.*                          # (default: true) EXPLODE Листья
+fe.protection.explode.minecraft.lever.*                            # (default: true) EXPLODE Рычаг
+fe.protection.explode.minecraft.light_weighted_pressure_plate.*    # (default: true) EXPLODE Утяжелённая нажимная пластина (Лёгкая)
+fe.protection.explode.minecraft.lit_furnace.*                      # (default: true) EXPLODE Печь
+fe.protection.explode.minecraft.lit_pumpkin.*                      # (default: true) EXPLODE Светильник Джека
+fe.protection.explode.minecraft.lit_redstone_lamp.*                # (default: true) EXPLODE Лампа
+fe.protection.explode.minecraft.lit_redstone_ore.*                 # (default: true) EXPLODE Красная руда
+fe.protection.explode.minecraft.log.*                              # (default: true) EXPLODE Дерево
+fe.protection.explode.minecraft.log2.*                             # (default: true) EXPLODE Дерево
+fe.protection.explode.minecraft.melon_block.*                      # (default: true) EXPLODE Арбуз
+fe.protection.explode.minecraft.melon_stem.*                       # (default: true) EXPLODE tile.pumpkinStem.name
+fe.protection.explode.minecraft.mob_spawner.*                      # (default: true) EXPLODE Рассадник монстров
+fe.protection.explode.minecraft.monster_egg.*                      # (default: true) EXPLODE tile.monsterStoneEgg.name
+fe.protection.explode.minecraft.mossy_cobblestone.*                # (default: true) EXPLODE Замшелый булыжник
+fe.protection.explode.minecraft.mycelium.*                         # (default: true) EXPLODE Мицелий
+fe.protection.explode.minecraft.nether_brick.*                     # (default: true) EXPLODE Адские кирпичи
+fe.protection.explode.minecraft.nether_brick_fence.*               # (default: true) EXPLODE Адский забор
+fe.protection.explode.minecraft.nether_brick_stairs.*              # (default: true) EXPLODE Адские ступеньки
+fe.protection.explode.minecraft.nether_wart.*                      # (default: true) EXPLODE Адский нарост
+fe.protection.explode.minecraft.netherrack.*                       # (default: true) EXPLODE Адский камень
+fe.protection.explode.minecraft.noteblock.*                        # (default: true) EXPLODE Нотный блок
+fe.protection.explode.minecraft.oak_stairs.*                       # (default: true) EXPLODE Дубовые ступеньки
+fe.protection.explode.minecraft.obsidian.*                         # (default: true) EXPLODE Обсидиан
+fe.protection.explode.minecraft.packed_ice.*                       # (default: true) EXPLODE Плотный лёд
+fe.protection.explode.minecraft.piston.*                           # (default: true) EXPLODE Поршень
+fe.protection.explode.minecraft.piston_extension.*                 # (default: true) EXPLODE tile.null.name
+fe.protection.explode.minecraft.piston_head.*                      # (default: true) EXPLODE tile.null.name
+fe.protection.explode.minecraft.planks.*                           # (default: true) EXPLODE Доски
+fe.protection.explode.minecraft.portal.*                           # (default: true) EXPLODE Портал
+fe.protection.explode.minecraft.potatoes.*                         # (default: true) EXPLODE Картофель
+fe.protection.explode.minecraft.powered_comparator.*               # (default: true) EXPLODE tile.comparator.name
+fe.protection.explode.minecraft.powered_repeater.*                 # (default: true) EXPLODE tile.diode.name
+fe.protection.explode.minecraft.pumpkin.*                          # (default: true) EXPLODE Тыква
+fe.protection.explode.minecraft.pumpkin_stem.*                     # (default: true) EXPLODE tile.pumpkinStem.name
+fe.protection.explode.minecraft.quartz_block.*                     # (default: true) EXPLODE tile.quartzBlock.name
+fe.protection.explode.minecraft.quartz_ore.*                       # (default: true) EXPLODE Кварцевая руда
+fe.protection.explode.minecraft.quartz_stairs.*                    # (default: true) EXPLODE Кварцевые ступеньки
+fe.protection.explode.minecraft.rail.*                             # (default: true) EXPLODE Рельсы
+fe.protection.explode.minecraft.red_flower.*                       # (default: true) EXPLODE tile.flower2.name
+fe.protection.explode.minecraft.red_mushroom.*                     # (default: true) EXPLODE Гриб
+fe.protection.explode.minecraft.red_mushroom_block.*               # (default: true) EXPLODE Гриб
+fe.protection.explode.minecraft.redstone_block.*                   # (default: true) EXPLODE Блок красного камня
+fe.protection.explode.minecraft.redstone_lamp.*                    # (default: true) EXPLODE Лампа
+fe.protection.explode.minecraft.redstone_ore.*                     # (default: true) EXPLODE Красная руда
+fe.protection.explode.minecraft.redstone_torch.*                   # (default: true) EXPLODE Красный факел
+fe.protection.explode.minecraft.redstone_wire.*                    # (default: true) EXPLODE Красная пыль
+fe.protection.explode.minecraft.reeds.*                            # (default: true) EXPLODE Сахарный тростник
+fe.protection.explode.minecraft.sand.*                             # (default: true) EXPLODE tile.sand.name
+fe.protection.explode.minecraft.sandstone.*                        # (default: true) EXPLODE Песчаник
+fe.protection.explode.minecraft.sandstone_stairs.*                 # (default: true) EXPLODE Ступеньки из песчаника
+fe.protection.explode.minecraft.sapling.*                          # (default: true) EXPLODE tile.sapling.name
+fe.protection.explode.minecraft.skull.*                            # (default: true) EXPLODE tile.skull.name
+fe.protection.explode.minecraft.snow.*                             # (default: true) EXPLODE Снег
+fe.protection.explode.minecraft.snow_layer.*                       # (default: true) EXPLODE Снег
+fe.protection.explode.minecraft.soul_sand.*                        # (default: true) EXPLODE Песок душ
+fe.protection.explode.minecraft.sponge.*                           # (default: true) EXPLODE Губка
+fe.protection.explode.minecraft.spruce_stairs.*                    # (default: true) EXPLODE Еловые ступеньки
+fe.protection.explode.minecraft.stained_glass.*                    # (default: true) EXPLODE Окрашенное стекло
+fe.protection.explode.minecraft.stained_glass_pane.*               # (default: true) EXPLODE Окрашенная стеклянная панель
+fe.protection.explode.minecraft.stained_hardened_clay.*            # (default: true) EXPLODE tile.clayHardenedStained.name
+fe.protection.explode.minecraft.standing_sign.*                    # (default: true) EXPLODE Табличка
+fe.protection.explode.minecraft.sticky_piston.*                    # (default: true) EXPLODE Липкий поршень
+fe.protection.explode.minecraft.stone.*                            # (default: true) EXPLODE Камень
+fe.protection.explode.minecraft.stone_brick_stairs.*               # (default: true) EXPLODE Ступеньки из каменного кирпича
+fe.protection.explode.minecraft.stone_button.*                     # (default: true) EXPLODE Кнопка
+fe.protection.explode.minecraft.stone_pressure_plate.*             # (default: true) EXPLODE Нажимная плита
+fe.protection.explode.minecraft.stone_slab.*                       # (default: true) EXPLODE tile.stoneSlab.name
+fe.protection.explode.minecraft.stone_stairs.*                     # (default: true) EXPLODE Ступеньки из булыжника
+fe.protection.explode.minecraft.stonebrick.*                       # (default: true) EXPLODE Каменные кирпичи
+fe.protection.explode.minecraft.tallgrass.*                        # (default: true) EXPLODE Трава
+fe.protection.explode.minecraft.tnt.*                              # (default: true) EXPLODE Динамит
+fe.protection.explode.minecraft.torch.*                            # (default: true) EXPLODE Факел
+fe.protection.explode.minecraft.trapdoor.*                         # (default: true) EXPLODE Люк
+fe.protection.explode.minecraft.trapped_chest.*                    # (default: true) EXPLODE Сундук-ловушка
+fe.protection.explode.minecraft.tripwire.*                         # (default: true) EXPLODE Растяжка
+fe.protection.explode.minecraft.tripwire_hook.*                    # (default: true) EXPLODE Крюк
+fe.protection.explode.minecraft.unlit_redstone_torch.*             # (default: true) EXPLODE Красный факел
+fe.protection.explode.minecraft.unpowered_comparator.*             # (default: true) EXPLODE tile.comparator.name
+fe.protection.explode.minecraft.unpowered_repeater.*               # (default: true) EXPLODE tile.diode.name
+fe.protection.explode.minecraft.vine.*                             # (default: true) EXPLODE Лоза
+fe.protection.explode.minecraft.wall_sign.*                        # (default: true) EXPLODE Табличка
+fe.protection.explode.minecraft.water.*                            # (default: true) EXPLODE Вода
+fe.protection.explode.minecraft.waterlily.*                        # (default: true) EXPLODE Кувшинка
+fe.protection.explode.minecraft.web.*                              # (default: true) EXPLODE Паутина
+fe.protection.explode.minecraft.wheat.*                            # (default: true) EXPLODE Всходы
+fe.protection.explode.minecraft.wooden_button.*                    # (default: true) EXPLODE Кнопка
+fe.protection.explode.minecraft.wooden_door.*                      # (default: true) EXPLODE Деревянная дверь
+fe.protection.explode.minecraft.wooden_pressure_plate.*            # (default: true) EXPLODE Нажимная плита
+fe.protection.explode.minecraft.wooden_slab.*                      # (default: true) EXPLODE tile.woodSlab.name
+fe.protection.explode.minecraft.wool.*                             # (default: true) EXPLODE Шерсть
+fe.protection.explode.minecraft.yellow_flower.*                    # (default: true) EXPLODE tile.flower1.name
+fe.protection.interact.*                                           # (default: true) Allow interacting with blocks (button, chest, workbench)
+fe.protection.interact.entity                                      # (default: true) Allow interacting with entities (villagers, dogs, horses)
+fe.protection.interact.minecraft.acacia_stairs.*                   # (default: true) INTERACT Ступеньки из древесины акации
+fe.protection.interact.minecraft.activator_rail.*                  # (default: true) INTERACT Активирующие рельсы
+fe.protection.interact.minecraft.air.*                             # (default: true) INTERACT tile.air.name
+fe.protection.interact.minecraft.anvil.*                           # (default: true) INTERACT Наковальня
+fe.protection.interact.minecraft.beacon.*                          # (default: true) INTERACT Маяк
+fe.protection.interact.minecraft.bed.*                             # (default: true) INTERACT Кровать
+fe.protection.interact.minecraft.bedrock.*                         # (default: true) INTERACT Бедрок
+fe.protection.interact.minecraft.birch_stairs.*                    # (default: true) INTERACT Березовые ступеньки
+fe.protection.interact.minecraft.bookshelf.*                       # (default: true) INTERACT Книжная полка
+fe.protection.interact.minecraft.brewing_stand.*                   # (default: true) INTERACT tile.brewingStand.name
+fe.protection.interact.minecraft.brick_block.*                     # (default: true) INTERACT Кирпичи
+fe.protection.interact.minecraft.brick_stairs.*                    # (default: true) INTERACT Кирпичные ступеньки
+fe.protection.interact.minecraft.brown_mushroom.*                  # (default: true) INTERACT Гриб
+fe.protection.interact.minecraft.brown_mushroom_block.*            # (default: true) INTERACT Гриб
+fe.protection.interact.minecraft.cactus.*                          # (default: true) INTERACT Кактус
+fe.protection.interact.minecraft.cake.*                            # (default: true) INTERACT Торт
+fe.protection.interact.minecraft.carpet.*                          # (default: true) INTERACT tile.woolCarpet.name
+fe.protection.interact.minecraft.carrots.*                         # (default: true) INTERACT Морковь
+fe.protection.interact.minecraft.cauldron.*                        # (default: true) INTERACT Котёл
+fe.protection.interact.minecraft.chest.*                           # (default: true) INTERACT Сундук
+fe.protection.interact.minecraft.clay.*                            # (default: true) INTERACT Глина
+fe.protection.interact.minecraft.coal_block.*                      # (default: true) INTERACT Угольный блок
+fe.protection.interact.minecraft.coal_ore.*                        # (default: true) INTERACT Уголь
+fe.protection.interact.minecraft.cobblestone.*                     # (default: true) INTERACT Булыжник
+fe.protection.interact.minecraft.cobblestone_wall.*                # (default: true) INTERACT tile.cobbleWall.name
+fe.protection.interact.minecraft.cocoa.*                           # (default: true) INTERACT Какао
+fe.protection.interact.minecraft.command_block.*                   # (default: true) INTERACT Командный блок
+fe.protection.interact.minecraft.crafting_table.*                  # (default: true) INTERACT Верстак
+fe.protection.interact.minecraft.dark_oak_stairs.*                 # (default: true) INTERACT Ступеньки из тёмного дуба
+fe.protection.interact.minecraft.daylight_detector.*               # (default: true) INTERACT Датчик дневного света
+fe.protection.interact.minecraft.deadbush.*                        # (default: true) INTERACT Мертвый куст
+fe.protection.interact.minecraft.detector_rail.*                   # (default: true) INTERACT Рельсы с датчиком
+fe.protection.interact.minecraft.diamond_block.*                   # (default: true) INTERACT Алмазный блок
+fe.protection.interact.minecraft.diamond_ore.*                     # (default: true) INTERACT Алмазная руда
+fe.protection.interact.minecraft.dirt.*                            # (default: true) INTERACT tile.dirt.name
+fe.protection.interact.minecraft.dispenser.*                       # (default: true) INTERACT Раздатчик
+fe.protection.interact.minecraft.double_plant.*                    # (default: true) INTERACT tile.doublePlant.name
+fe.protection.interact.minecraft.double_stone_slab.*               # (default: true) INTERACT tile.stoneSlab.name
+fe.protection.interact.minecraft.double_wooden_slab.*              # (default: true) INTERACT tile.woodSlab.name
+fe.protection.interact.minecraft.dragon_egg.*                      # (default: true) INTERACT Яйцо дракона
+fe.protection.interact.minecraft.dropper.*                         # (default: true) INTERACT Выбрасыватель
+fe.protection.interact.minecraft.emerald_block.*                   # (default: true) INTERACT Изумрудный блок
+fe.protection.interact.minecraft.emerald_ore.*                     # (default: true) INTERACT Изумрудная руда
+fe.protection.interact.minecraft.enchanting_table.*                # (default: true) INTERACT Стол зачарований
+fe.protection.interact.minecraft.end_portal.*                      # (default: true) INTERACT tile.null.name
+fe.protection.interact.minecraft.end_portal_frame.*                # (default: true) INTERACT Портал в Энд
+fe.protection.interact.minecraft.end_stone.*                       # (default: true) INTERACT Эндерняк
+fe.protection.interact.minecraft.ender_chest.*                     # (default: true) INTERACT Сундук Эндера
+fe.protection.interact.minecraft.farmland.*                        # (default: true) INTERACT Пашня
+fe.protection.interact.minecraft.fence.*                           # (default: true) INTERACT Забор
+fe.protection.interact.minecraft.fence_gate.*                      # (default: true) INTERACT Калитка
+fe.protection.interact.minecraft.fire.*                            # (default: true) INTERACT Огонь
+fe.protection.interact.minecraft.flower_pot.*                      # (default: true) INTERACT tile.flowerPot.name
+fe.protection.interact.minecraft.flowing_lava.*                    # (default: true) INTERACT Лава
+fe.protection.interact.minecraft.flowing_water.*                   # (default: true) INTERACT Вода
+fe.protection.interact.minecraft.furnace.*                         # (default: true) INTERACT Печь
+fe.protection.interact.minecraft.glass.*                           # (default: true) INTERACT Стекло
+fe.protection.interact.minecraft.glass_pane.*                      # (default: true) INTERACT Стеклянная панель
+fe.protection.interact.minecraft.glowstone.*                       # (default: true) INTERACT Светящийся камень
+fe.protection.interact.minecraft.gold_block.*                      # (default: true) INTERACT Золотой блок
+fe.protection.interact.minecraft.gold_ore.*                        # (default: true) INTERACT Золотая руда
+fe.protection.interact.minecraft.golden_rail.*                     # (default: true) INTERACT Энергорельсы
+fe.protection.interact.minecraft.grass.*                           # (default: true) INTERACT Блок травы
+fe.protection.interact.minecraft.gravel.*                          # (default: true) INTERACT Гравий
+fe.protection.interact.minecraft.hardened_clay.*                   # (default: true) INTERACT Обожжёная глина
+fe.protection.interact.minecraft.hay_block.*                       # (default: true) INTERACT Сноп сена
+fe.protection.interact.minecraft.heavy_weighted_pressure_plate.*   # (default: true) INTERACT Утяжелённая нажимная пластина (Тяжёлая)
+fe.protection.interact.minecraft.hopper.*                          # (default: true) INTERACT Воронка
+fe.protection.interact.minecraft.ice.*                             # (default: true) INTERACT Лёд
+fe.protection.interact.minecraft.iron_bars.*                       # (default: true) INTERACT Железные прутья
+fe.protection.interact.minecraft.iron_block.*                      # (default: true) INTERACT Железный блок
+fe.protection.interact.minecraft.iron_door.*                       # (default: true) INTERACT Железная дверь
+fe.protection.interact.minecraft.iron_ore.*                        # (default: true) INTERACT Железная руда
+fe.protection.interact.minecraft.jukebox.*                         # (default: true) INTERACT Проигрыватель
+fe.protection.interact.minecraft.jungle_stairs.*                   # (default: true) INTERACT Ступеньки из тропической древесины
+fe.protection.interact.minecraft.ladder.*                          # (default: true) INTERACT Лестница
+fe.protection.interact.minecraft.lapis_block.*                     # (default: true) INTERACT Блок лазурита
+fe.protection.interact.minecraft.lapis_ore.*                       # (default: true) INTERACT Лазуритовая руда
+fe.protection.interact.minecraft.lava.*                            # (default: true) INTERACT Лава
+fe.protection.interact.minecraft.leaves.*                          # (default: true) INTERACT Листья
+fe.protection.interact.minecraft.leaves2.*                         # (default: true) INTERACT Листья
+fe.protection.interact.minecraft.lever.*                           # (default: true) INTERACT Рычаг
+fe.protection.interact.minecraft.light_weighted_pressure_plate.*   # (default: true) INTERACT Утяжелённая нажимная пластина (Лёгкая)
+fe.protection.interact.minecraft.lit_furnace.*                     # (default: true) INTERACT Печь
+fe.protection.interact.minecraft.lit_pumpkin.*                     # (default: true) INTERACT Светильник Джека
+fe.protection.interact.minecraft.lit_redstone_lamp.*               # (default: true) INTERACT Лампа
+fe.protection.interact.minecraft.lit_redstone_ore.*                # (default: true) INTERACT Красная руда
+fe.protection.interact.minecraft.log.*                             # (default: true) INTERACT Дерево
+fe.protection.interact.minecraft.log2.*                            # (default: true) INTERACT Дерево
+fe.protection.interact.minecraft.melon_block.*                     # (default: true) INTERACT Арбуз
+fe.protection.interact.minecraft.melon_stem.*                      # (default: true) INTERACT tile.pumpkinStem.name
+fe.protection.interact.minecraft.mob_spawner.*                     # (default: true) INTERACT Рассадник монстров
+fe.protection.interact.minecraft.monster_egg.*                     # (default: true) INTERACT tile.monsterStoneEgg.name
+fe.protection.interact.minecraft.mossy_cobblestone.*               # (default: true) INTERACT Замшелый булыжник
+fe.protection.interact.minecraft.mycelium.*                        # (default: true) INTERACT Мицелий
+fe.protection.interact.minecraft.nether_brick.*                    # (default: true) INTERACT Адские кирпичи
+fe.protection.interact.minecraft.nether_brick_fence.*              # (default: true) INTERACT Адский забор
+fe.protection.interact.minecraft.nether_brick_stairs.*             # (default: true) INTERACT Адские ступеньки
+fe.protection.interact.minecraft.nether_wart.*                     # (default: true) INTERACT Адский нарост
+fe.protection.interact.minecraft.netherrack.*                      # (default: true) INTERACT Адский камень
+fe.protection.interact.minecraft.noteblock.*                       # (default: true) INTERACT Нотный блок
+fe.protection.interact.minecraft.oak_stairs.*                      # (default: true) INTERACT Дубовые ступеньки
+fe.protection.interact.minecraft.obsidian.*                        # (default: true) INTERACT Обсидиан
+fe.protection.interact.minecraft.packed_ice.*                      # (default: true) INTERACT Плотный лёд
+fe.protection.interact.minecraft.piston.*                          # (default: true) INTERACT Поршень
+fe.protection.interact.minecraft.piston_extension.*                # (default: true) INTERACT tile.null.name
+fe.protection.interact.minecraft.piston_head.*                     # (default: true) INTERACT tile.null.name
+fe.protection.interact.minecraft.planks.*                          # (default: true) INTERACT Доски
+fe.protection.interact.minecraft.portal.*                          # (default: true) INTERACT Портал
+fe.protection.interact.minecraft.potatoes.*                        # (default: true) INTERACT Картофель
+fe.protection.interact.minecraft.powered_comparator.*              # (default: true) INTERACT tile.comparator.name
+fe.protection.interact.minecraft.powered_repeater.*                # (default: true) INTERACT tile.diode.name
+fe.protection.interact.minecraft.pumpkin.*                         # (default: true) INTERACT Тыква
+fe.protection.interact.minecraft.pumpkin_stem.*                    # (default: true) INTERACT tile.pumpkinStem.name
+fe.protection.interact.minecraft.quartz_block.*                    # (default: true) INTERACT tile.quartzBlock.name
+fe.protection.interact.minecraft.quartz_ore.*                      # (default: true) INTERACT Кварцевая руда
+fe.protection.interact.minecraft.quartz_stairs.*                   # (default: true) INTERACT Кварцевые ступеньки
+fe.protection.interact.minecraft.rail.*                            # (default: true) INTERACT Рельсы
+fe.protection.interact.minecraft.red_flower.*                      # (default: true) INTERACT tile.flower2.name
+fe.protection.interact.minecraft.red_mushroom.*                    # (default: true) INTERACT Гриб
+fe.protection.interact.minecraft.red_mushroom_block.*              # (default: true) INTERACT Гриб
+fe.protection.interact.minecraft.redstone_block.*                  # (default: true) INTERACT Блок красного камня
+fe.protection.interact.minecraft.redstone_lamp.*                   # (default: true) INTERACT Лампа
+fe.protection.interact.minecraft.redstone_ore.*                    # (default: true) INTERACT Красная руда
+fe.protection.interact.minecraft.redstone_torch.*                  # (default: true) INTERACT Красный факел
+fe.protection.interact.minecraft.redstone_wire.*                   # (default: true) INTERACT Красная пыль
+fe.protection.interact.minecraft.reeds.*                           # (default: true) INTERACT Сахарный тростник
+fe.protection.interact.minecraft.sand.*                            # (default: true) INTERACT tile.sand.name
+fe.protection.interact.minecraft.sandstone.*                       # (default: true) INTERACT Песчаник
+fe.protection.interact.minecraft.sandstone_stairs.*                # (default: true) INTERACT Ступеньки из песчаника
+fe.protection.interact.minecraft.sapling.*                         # (default: true) INTERACT tile.sapling.name
+fe.protection.interact.minecraft.skull.*                           # (default: true) INTERACT tile.skull.name
+fe.protection.interact.minecraft.snow.*                            # (default: true) INTERACT Снег
+fe.protection.interact.minecraft.snow_layer.*                      # (default: true) INTERACT Снег
+fe.protection.interact.minecraft.soul_sand.*                       # (default: true) INTERACT Песок душ
+fe.protection.interact.minecraft.sponge.*                          # (default: true) INTERACT Губка
+fe.protection.interact.minecraft.spruce_stairs.*                   # (default: true) INTERACT Еловые ступеньки
+fe.protection.interact.minecraft.stained_glass.*                   # (default: true) INTERACT Окрашенное стекло
+fe.protection.interact.minecraft.stained_glass_pane.*              # (default: true) INTERACT Окрашенная стеклянная панель
+fe.protection.interact.minecraft.stained_hardened_clay.*           # (default: true) INTERACT tile.clayHardenedStained.name
+fe.protection.interact.minecraft.standing_sign.*                   # (default: true) INTERACT Табличка
+fe.protection.interact.minecraft.sticky_piston.*                   # (default: true) INTERACT Липкий поршень
+fe.protection.interact.minecraft.stone.*                           # (default: true) INTERACT Камень
+fe.protection.interact.minecraft.stone_brick_stairs.*              # (default: true) INTERACT Ступеньки из каменного кирпича
+fe.protection.interact.minecraft.stone_button.*                    # (default: true) INTERACT Кнопка
+fe.protection.interact.minecraft.stone_pressure_plate.*            # (default: true) INTERACT Нажимная плита
+fe.protection.interact.minecraft.stone_slab.*                      # (default: true) INTERACT tile.stoneSlab.name
+fe.protection.interact.minecraft.stone_stairs.*                    # (default: true) INTERACT Ступеньки из булыжника
+fe.protection.interact.minecraft.stonebrick.*                      # (default: true) INTERACT Каменные кирпичи
+fe.protection.interact.minecraft.tallgrass.*                       # (default: true) INTERACT Трава
+fe.protection.interact.minecraft.tnt.*                             # (default: true) INTERACT Динамит
+fe.protection.interact.minecraft.torch.*                           # (default: true) INTERACT Факел
+fe.protection.interact.minecraft.trapdoor.*                        # (default: true) INTERACT Люк
+fe.protection.interact.minecraft.trapped_chest.*                   # (default: true) INTERACT Сундук-ловушка
+fe.protection.interact.minecraft.tripwire.*                        # (default: true) INTERACT Растяжка
+fe.protection.interact.minecraft.tripwire_hook.*                   # (default: true) INTERACT Крюк
+fe.protection.interact.minecraft.unlit_redstone_torch.*            # (default: true) INTERACT Красный факел
+fe.protection.interact.minecraft.unpowered_comparator.*            # (default: true) INTERACT tile.comparator.name
+fe.protection.interact.minecraft.unpowered_repeater.*              # (default: true) INTERACT tile.diode.name
+fe.protection.interact.minecraft.vine.*                            # (default: true) INTERACT Лоза
+fe.protection.interact.minecraft.wall_sign.*                       # (default: true) INTERACT Табличка
+fe.protection.interact.minecraft.water.*                           # (default: true) INTERACT Вода
+fe.protection.interact.minecraft.waterlily.*                       # (default: true) INTERACT Кувшинка
+fe.protection.interact.minecraft.web.*                             # (default: true) INTERACT Паутина
+fe.protection.interact.minecraft.wheat.*                           # (default: true) INTERACT Всходы
+fe.protection.interact.minecraft.wooden_button.*                   # (default: true) INTERACT Кнопка
+fe.protection.interact.minecraft.wooden_door.*                     # (default: true) INTERACT Деревянная дверь
+fe.protection.interact.minecraft.wooden_pressure_plate.*           # (default: true) INTERACT Нажимная плита
+fe.protection.interact.minecraft.wooden_slab.*                     # (default: true) INTERACT tile.woodSlab.name
+fe.protection.interact.minecraft.wool.*                            # (default: true) INTERACT Шерсть
+fe.protection.interact.minecraft.yellow_flower.*                   # (default: true) INTERACT tile.flower1.name
+fe.protection.place.*                                              # (default: true) Allow placing blocks
+fe.protection.place.minecraft.acacia_stairs.*                      # (default: true) PLACE Ступеньки из древесины акации
+fe.protection.place.minecraft.activator_rail.*                     # (default: true) PLACE Активирующие рельсы
+fe.protection.place.minecraft.air.*                                # (default: true) PLACE tile.air.name
+fe.protection.place.minecraft.anvil.*                              # (default: true) PLACE Наковальня
+fe.protection.place.minecraft.beacon.*                             # (default: true) PLACE Маяк
+fe.protection.place.minecraft.bed.*                                # (default: true) PLACE Кровать
+fe.protection.place.minecraft.bedrock.*                            # (default: true) PLACE Бедрок
+fe.protection.place.minecraft.birch_stairs.*                       # (default: true) PLACE Березовые ступеньки
+fe.protection.place.minecraft.bookshelf.*                          # (default: true) PLACE Книжная полка
+fe.protection.place.minecraft.brewing_stand.*                      # (default: true) PLACE tile.brewingStand.name
+fe.protection.place.minecraft.brick_block.*                        # (default: true) PLACE Кирпичи
+fe.protection.place.minecraft.brick_stairs.*                       # (default: true) PLACE Кирпичные ступеньки
+fe.protection.place.minecraft.brown_mushroom.*                     # (default: true) PLACE Гриб
+fe.protection.place.minecraft.brown_mushroom_block.*               # (default: true) PLACE Гриб
+fe.protection.place.minecraft.cactus.*                             # (default: true) PLACE Кактус
+fe.protection.place.minecraft.cake.*                               # (default: true) PLACE Торт
+fe.protection.place.minecraft.carpet.*                             # (default: true) PLACE tile.woolCarpet.name
+fe.protection.place.minecraft.carrots.*                            # (default: true) PLACE Морковь
+fe.protection.place.minecraft.cauldron.*                           # (default: true) PLACE Котёл
+fe.protection.place.minecraft.chest.*                              # (default: true) PLACE Сундук
+fe.protection.place.minecraft.clay.*                               # (default: true) PLACE Глина
+fe.protection.place.minecraft.coal_block.*                         # (default: true) PLACE Угольный блок
+fe.protection.place.minecraft.coal_ore.*                           # (default: true) PLACE Уголь
+fe.protection.place.minecraft.cobblestone.*                        # (default: true) PLACE Булыжник
+fe.protection.place.minecraft.cobblestone_wall.*                   # (default: true) PLACE tile.cobbleWall.name
+fe.protection.place.minecraft.cocoa.*                              # (default: true) PLACE Какао
+fe.protection.place.minecraft.command_block.*                      # (default: true) PLACE Командный блок
+fe.protection.place.minecraft.crafting_table.*                     # (default: true) PLACE Верстак
+fe.protection.place.minecraft.dark_oak_stairs.*                    # (default: true) PLACE Ступеньки из тёмного дуба
+fe.protection.place.minecraft.daylight_detector.*                  # (default: true) PLACE Датчик дневного света
+fe.protection.place.minecraft.deadbush.*                           # (default: true) PLACE Мертвый куст
+fe.protection.place.minecraft.detector_rail.*                      # (default: true) PLACE Рельсы с датчиком
+fe.protection.place.minecraft.diamond_block.*                      # (default: true) PLACE Алмазный блок
+fe.protection.place.minecraft.diamond_ore.*                        # (default: true) PLACE Алмазная руда
+fe.protection.place.minecraft.dirt.*                               # (default: true) PLACE tile.dirt.name
+fe.protection.place.minecraft.dispenser.*                          # (default: true) PLACE Раздатчик
+fe.protection.place.minecraft.double_plant.*                       # (default: true) PLACE tile.doublePlant.name
+fe.protection.place.minecraft.double_stone_slab.*                  # (default: true) PLACE tile.stoneSlab.name
+fe.protection.place.minecraft.double_wooden_slab.*                 # (default: true) PLACE tile.woodSlab.name
+fe.protection.place.minecraft.dragon_egg.*                         # (default: true) PLACE Яйцо дракона
+fe.protection.place.minecraft.dropper.*                            # (default: true) PLACE Выбрасыватель
+fe.protection.place.minecraft.emerald_block.*                      # (default: true) PLACE Изумрудный блок
+fe.protection.place.minecraft.emerald_ore.*                        # (default: true) PLACE Изумрудная руда
+fe.protection.place.minecraft.enchanting_table.*                   # (default: true) PLACE Стол зачарований
+fe.protection.place.minecraft.end_portal.*                         # (default: true) PLACE tile.null.name
+fe.protection.place.minecraft.end_portal_frame.*                   # (default: true) PLACE Портал в Энд
+fe.protection.place.minecraft.end_stone.*                          # (default: true) PLACE Эндерняк
+fe.protection.place.minecraft.ender_chest.*                        # (default: true) PLACE Сундук Эндера
+fe.protection.place.minecraft.farmland.*                           # (default: true) PLACE Пашня
+fe.protection.place.minecraft.fence.*                              # (default: true) PLACE Забор
+fe.protection.place.minecraft.fence_gate.*                         # (default: true) PLACE Калитка
+fe.protection.place.minecraft.fire.*                               # (default: true) PLACE Огонь
+fe.protection.place.minecraft.flower_pot.*                         # (default: true) PLACE tile.flowerPot.name
+fe.protection.place.minecraft.flowing_lava.*                       # (default: true) PLACE Лава
+fe.protection.place.minecraft.flowing_water.*                      # (default: true) PLACE Вода
+fe.protection.place.minecraft.furnace.*                            # (default: true) PLACE Печь
+fe.protection.place.minecraft.glass.*                              # (default: true) PLACE Стекло
+fe.protection.place.minecraft.glass_pane.*                         # (default: true) PLACE Стеклянная панель
+fe.protection.place.minecraft.glowstone.*                          # (default: true) PLACE Светящийся камень
+fe.protection.place.minecraft.gold_block.*                         # (default: true) PLACE Золотой блок
+fe.protection.place.minecraft.gold_ore.*                           # (default: true) PLACE Золотая руда
+fe.protection.place.minecraft.golden_rail.*                        # (default: true) PLACE Энергорельсы
+fe.protection.place.minecraft.grass.*                              # (default: true) PLACE Блок травы
+fe.protection.place.minecraft.gravel.*                             # (default: true) PLACE Гравий
+fe.protection.place.minecraft.hardened_clay.*                      # (default: true) PLACE Обожжёная глина
+fe.protection.place.minecraft.hay_block.*                          # (default: true) PLACE Сноп сена
+fe.protection.place.minecraft.heavy_weighted_pressure_plate.*      # (default: true) PLACE Утяжелённая нажимная пластина (Тяжёлая)
+fe.protection.place.minecraft.hopper.*                             # (default: true) PLACE Воронка
+fe.protection.place.minecraft.ice.*                                # (default: true) PLACE Лёд
+fe.protection.place.minecraft.iron_bars.*                          # (default: true) PLACE Железные прутья
+fe.protection.place.minecraft.iron_block.*                         # (default: true) PLACE Железный блок
+fe.protection.place.minecraft.iron_door.*                          # (default: true) PLACE Железная дверь
+fe.protection.place.minecraft.iron_ore.*                           # (default: true) PLACE Железная руда
+fe.protection.place.minecraft.jukebox.*                            # (default: true) PLACE Проигрыватель
+fe.protection.place.minecraft.jungle_stairs.*                      # (default: true) PLACE Ступеньки из тропической древесины
+fe.protection.place.minecraft.ladder.*                             # (default: true) PLACE Лестница
+fe.protection.place.minecraft.lapis_block.*                        # (default: true) PLACE Блок лазурита
+fe.protection.place.minecraft.lapis_ore.*                          # (default: true) PLACE Лазуритовая руда
+fe.protection.place.minecraft.lava.*                               # (default: true) PLACE Лава
+fe.protection.place.minecraft.leaves.*                             # (default: true) PLACE Листья
+fe.protection.place.minecraft.leaves2.*                            # (default: true) PLACE Листья
+fe.protection.place.minecraft.lever.*                              # (default: true) PLACE Рычаг
+fe.protection.place.minecraft.light_weighted_pressure_plate.*      # (default: true) PLACE Утяжелённая нажимная пластина (Лёгкая)
+fe.protection.place.minecraft.lit_furnace.*                        # (default: true) PLACE Печь
+fe.protection.place.minecraft.lit_pumpkin.*                        # (default: true) PLACE Светильник Джека
+fe.protection.place.minecraft.lit_redstone_lamp.*                  # (default: true) PLACE Лампа
+fe.protection.place.minecraft.lit_redstone_ore.*                   # (default: true) PLACE Красная руда
+fe.protection.place.minecraft.log.*                                # (default: true) PLACE Дерево
+fe.protection.place.minecraft.log2.*                               # (default: true) PLACE Дерево
+fe.protection.place.minecraft.melon_block.*                        # (default: true) PLACE Арбуз
+fe.protection.place.minecraft.melon_stem.*                         # (default: true) PLACE tile.pumpkinStem.name
+fe.protection.place.minecraft.mob_spawner.*                        # (default: true) PLACE Рассадник монстров
+fe.protection.place.minecraft.monster_egg.*                        # (default: true) PLACE tile.monsterStoneEgg.name
+fe.protection.place.minecraft.mossy_cobblestone.*                  # (default: true) PLACE Замшелый булыжник
+fe.protection.place.minecraft.mycelium.*                           # (default: true) PLACE Мицелий
+fe.protection.place.minecraft.nether_brick.*                       # (default: true) PLACE Адские кирпичи
+fe.protection.place.minecraft.nether_brick_fence.*                 # (default: true) PLACE Адский забор
+fe.protection.place.minecraft.nether_brick_stairs.*                # (default: true) PLACE Адские ступеньки
+fe.protection.place.minecraft.nether_wart.*                        # (default: true) PLACE Адский нарост
+fe.protection.place.minecraft.netherrack.*                         # (default: true) PLACE Адский камень
+fe.protection.place.minecraft.noteblock.*                          # (default: true) PLACE Нотный блок
+fe.protection.place.minecraft.oak_stairs.*                         # (default: true) PLACE Дубовые ступеньки
+fe.protection.place.minecraft.obsidian.*                           # (default: true) PLACE Обсидиан
+fe.protection.place.minecraft.packed_ice.*                         # (default: true) PLACE Плотный лёд
+fe.protection.place.minecraft.piston.*                             # (default: true) PLACE Поршень
+fe.protection.place.minecraft.piston_extension.*                   # (default: true) PLACE tile.null.name
+fe.protection.place.minecraft.piston_head.*                        # (default: true) PLACE tile.null.name
+fe.protection.place.minecraft.planks.*                             # (default: true) PLACE Доски
+fe.protection.place.minecraft.portal.*                             # (default: true) PLACE Портал
+fe.protection.place.minecraft.potatoes.*                           # (default: true) PLACE Картофель
+fe.protection.place.minecraft.powered_comparator.*                 # (default: true) PLACE tile.comparator.name
+fe.protection.place.minecraft.powered_repeater.*                   # (default: true) PLACE tile.diode.name
+fe.protection.place.minecraft.pumpkin.*                            # (default: true) PLACE Тыква
+fe.protection.place.minecraft.pumpkin_stem.*                       # (default: true) PLACE tile.pumpkinStem.name
+fe.protection.place.minecraft.quartz_block.*                       # (default: true) PLACE tile.quartzBlock.name
+fe.protection.place.minecraft.quartz_ore.*                         # (default: true) PLACE Кварцевая руда
+fe.protection.place.minecraft.quartz_stairs.*                      # (default: true) PLACE Кварцевые ступеньки
+fe.protection.place.minecraft.rail.*                               # (default: true) PLACE Рельсы
+fe.protection.place.minecraft.red_flower.*                         # (default: true) PLACE tile.flower2.name
+fe.protection.place.minecraft.red_mushroom.*                       # (default: true) PLACE Гриб
+fe.protection.place.minecraft.red_mushroom_block.*                 # (default: true) PLACE Гриб
+fe.protection.place.minecraft.redstone_block.*                     # (default: true) PLACE Блок красного камня
+fe.protection.place.minecraft.redstone_lamp.*                      # (default: true) PLACE Лампа
+fe.protection.place.minecraft.redstone_ore.*                       # (default: true) PLACE Красная руда
+fe.protection.place.minecraft.redstone_torch.*                     # (default: true) PLACE Красный факел
+fe.protection.place.minecraft.redstone_wire.*                      # (default: true) PLACE Красная пыль
+fe.protection.place.minecraft.reeds.*                              # (default: true) PLACE Сахарный тростник
+fe.protection.place.minecraft.sand.*                               # (default: true) PLACE tile.sand.name
+fe.protection.place.minecraft.sandstone.*                          # (default: true) PLACE Песчаник
+fe.protection.place.minecraft.sandstone_stairs.*                   # (default: true) PLACE Ступеньки из песчаника
+fe.protection.place.minecraft.sapling.*                            # (default: true) PLACE tile.sapling.name
+fe.protection.place.minecraft.skull.*                              # (default: true) PLACE tile.skull.name
+fe.protection.place.minecraft.snow.*                               # (default: true) PLACE Снег
+fe.protection.place.minecraft.snow_layer.*                         # (default: true) PLACE Снег
+fe.protection.place.minecraft.soul_sand.*                          # (default: true) PLACE Песок душ
+fe.protection.place.minecraft.sponge.*                             # (default: true) PLACE Губка
+fe.protection.place.minecraft.spruce_stairs.*                      # (default: true) PLACE Еловые ступеньки
+fe.protection.place.minecraft.stained_glass.*                      # (default: true) PLACE Окрашенное стекло
+fe.protection.place.minecraft.stained_glass_pane.*                 # (default: true) PLACE Окрашенная стеклянная панель
+fe.protection.place.minecraft.stained_hardened_clay.*              # (default: true) PLACE tile.clayHardenedStained.name
+fe.protection.place.minecraft.standing_sign.*                      # (default: true) PLACE Табличка
+fe.protection.place.minecraft.sticky_piston.*                      # (default: true) PLACE Липкий поршень
+fe.protection.place.minecraft.stone.*                              # (default: true) PLACE Камень
+fe.protection.place.minecraft.stone_brick_stairs.*                 # (default: true) PLACE Ступеньки из каменного кирпича
+fe.protection.place.minecraft.stone_button.*                       # (default: true) PLACE Кнопка
+fe.protection.place.minecraft.stone_pressure_plate.*               # (default: true) PLACE Нажимная плита
+fe.protection.place.minecraft.stone_slab.*                         # (default: true) PLACE tile.stoneSlab.name
+fe.protection.place.minecraft.stone_stairs.*                       # (default: true) PLACE Ступеньки из булыжника
+fe.protection.place.minecraft.stonebrick.*                         # (default: true) PLACE Каменные кирпичи
+fe.protection.place.minecraft.tallgrass.*                          # (default: true) PLACE Трава
+fe.protection.place.minecraft.tnt.*                                # (default: true) PLACE Динамит
+fe.protection.place.minecraft.torch.*                              # (default: true) PLACE Факел
+fe.protection.place.minecraft.trapdoor.*                           # (default: true) PLACE Люк
+fe.protection.place.minecraft.trapped_chest.*                      # (default: true) PLACE Сундук-ловушка
+fe.protection.place.minecraft.tripwire.*                           # (default: true) PLACE Растяжка
+fe.protection.place.minecraft.tripwire_hook.*                      # (default: true) PLACE Крюк
+fe.protection.place.minecraft.unlit_redstone_torch.*               # (default: true) PLACE Красный факел
+fe.protection.place.minecraft.unpowered_comparator.*               # (default: true) PLACE tile.comparator.name
+fe.protection.place.minecraft.unpowered_repeater.*                 # (default: true) PLACE tile.diode.name
+fe.protection.place.minecraft.vine.*                               # (default: true) PLACE Лоза
+fe.protection.place.minecraft.wall_sign.*                          # (default: true) PLACE Табличка
+fe.protection.place.minecraft.water.*                              # (default: true) PLACE Вода
+fe.protection.place.minecraft.waterlily.*                          # (default: true) PLACE Кувшинка
+fe.protection.place.minecraft.web.*                                # (default: true) PLACE Паутина
+fe.protection.place.minecraft.wheat.*                              # (default: true) PLACE Всходы
+fe.protection.place.minecraft.wooden_button.*                      # (default: true) PLACE Кнопка
+fe.protection.place.minecraft.wooden_door.*                        # (default: true) PLACE Деревянная дверь
+fe.protection.place.minecraft.wooden_pressure_plate.*              # (default: true) PLACE Нажимная плита
+fe.protection.place.minecraft.wooden_slab.*                        # (default: true) PLACE tile.woodSlab.name
+fe.protection.place.minecraft.wool.*                               # (default: true) PLACE Шерсть
+fe.protection.place.minecraft.yellow_flower.*                      # (default: true) PLACE tile.flower1.name
+fe.protection.trample.*                                            # (default: true) Allow trampling on blocks
+fe.protection.trample.minecraft.acacia_stairs.*                    # (default: true) PLACE Ступеньки из древесины акации
+fe.protection.trample.minecraft.activator_rail.*                   # (default: true) PLACE Активирующие рельсы
+fe.protection.trample.minecraft.air.*                              # (default: true) PLACE tile.air.name
+fe.protection.trample.minecraft.anvil.*                            # (default: true) PLACE Наковальня
+fe.protection.trample.minecraft.beacon.*                           # (default: true) PLACE Маяк
+fe.protection.trample.minecraft.bed.*                              # (default: true) PLACE Кровать
+fe.protection.trample.minecraft.bedrock.*                          # (default: true) PLACE Бедрок
+fe.protection.trample.minecraft.birch_stairs.*                     # (default: true) PLACE Березовые ступеньки
+fe.protection.trample.minecraft.bookshelf.*                        # (default: true) PLACE Книжная полка
+fe.protection.trample.minecraft.brewing_stand.*                    # (default: true) PLACE tile.brewingStand.name
+fe.protection.trample.minecraft.brick_block.*                      # (default: true) PLACE Кирпичи
+fe.protection.trample.minecraft.brick_stairs.*                     # (default: true) PLACE Кирпичные ступеньки
+fe.protection.trample.minecraft.brown_mushroom.*                   # (default: true) PLACE Гриб
+fe.protection.trample.minecraft.brown_mushroom_block.*             # (default: true) PLACE Гриб
+fe.protection.trample.minecraft.cactus.*                           # (default: true) PLACE Кактус
+fe.protection.trample.minecraft.cake.*                             # (default: true) PLACE Торт
+fe.protection.trample.minecraft.carpet.*                           # (default: true) PLACE tile.woolCarpet.name
+fe.protection.trample.minecraft.carrots.*                          # (default: true) PLACE Морковь
+fe.protection.trample.minecraft.cauldron.*                         # (default: true) PLACE Котёл
+fe.protection.trample.minecraft.chest.*                            # (default: true) PLACE Сундук
+fe.protection.trample.minecraft.clay.*                             # (default: true) PLACE Глина
+fe.protection.trample.minecraft.coal_block.*                       # (default: true) PLACE Угольный блок
+fe.protection.trample.minecraft.coal_ore.*                         # (default: true) PLACE Уголь
+fe.protection.trample.minecraft.cobblestone.*                      # (default: true) PLACE Булыжник
+fe.protection.trample.minecraft.cobblestone_wall.*                 # (default: true) PLACE tile.cobbleWall.name
+fe.protection.trample.minecraft.cocoa.*                            # (default: true) PLACE Какао
+fe.protection.trample.minecraft.command_block.*                    # (default: true) PLACE Командный блок
+fe.protection.trample.minecraft.crafting_table.*                   # (default: true) PLACE Верстак
+fe.protection.trample.minecraft.dark_oak_stairs.*                  # (default: true) PLACE Ступеньки из тёмного дуба
+fe.protection.trample.minecraft.daylight_detector.*                # (default: true) PLACE Датчик дневного света
+fe.protection.trample.minecraft.deadbush.*                         # (default: true) PLACE Мертвый куст
+fe.protection.trample.minecraft.detector_rail.*                    # (default: true) PLACE Рельсы с датчиком
+fe.protection.trample.minecraft.diamond_block.*                    # (default: true) PLACE Алмазный блок
+fe.protection.trample.minecraft.diamond_ore.*                      # (default: true) PLACE Алмазная руда
+fe.protection.trample.minecraft.dirt.*                             # (default: true) PLACE tile.dirt.name
+fe.protection.trample.minecraft.dispenser.*                        # (default: true) PLACE Раздатчик
+fe.protection.trample.minecraft.double_plant.*                     # (default: true) PLACE tile.doublePlant.name
+fe.protection.trample.minecraft.double_stone_slab.*                # (default: true) PLACE tile.stoneSlab.name
+fe.protection.trample.minecraft.double_wooden_slab.*               # (default: true) PLACE tile.woodSlab.name
+fe.protection.trample.minecraft.dragon_egg.*                       # (default: true) PLACE Яйцо дракона
+fe.protection.trample.minecraft.dropper.*                          # (default: true) PLACE Выбрасыватель
+fe.protection.trample.minecraft.emerald_block.*                    # (default: true) PLACE Изумрудный блок
+fe.protection.trample.minecraft.emerald_ore.*                      # (default: true) PLACE Изумрудная руда
+fe.protection.trample.minecraft.enchanting_table.*                 # (default: true) PLACE Стол зачарований
+fe.protection.trample.minecraft.end_portal.*                       # (default: true) PLACE tile.null.name
+fe.protection.trample.minecraft.end_portal_frame.*                 # (default: true) PLACE Портал в Энд
+fe.protection.trample.minecraft.end_stone.*                        # (default: true) PLACE Эндерняк
+fe.protection.trample.minecraft.ender_chest.*                      # (default: true) PLACE Сундук Эндера
+fe.protection.trample.minecraft.farmland.*                         # (default: true) PLACE Пашня
+fe.protection.trample.minecraft.fence.*                            # (default: true) PLACE Забор
+fe.protection.trample.minecraft.fence_gate.*                       # (default: true) PLACE Калитка
+fe.protection.trample.minecraft.fire.*                             # (default: true) PLACE Огонь
+fe.protection.trample.minecraft.flower_pot.*                       # (default: true) PLACE tile.flowerPot.name
+fe.protection.trample.minecraft.flowing_lava.*                     # (default: true) PLACE Лава
+fe.protection.trample.minecraft.flowing_water.*                    # (default: true) PLACE Вода
+fe.protection.trample.minecraft.furnace.*                          # (default: true) PLACE Печь
+fe.protection.trample.minecraft.glass.*                            # (default: true) PLACE Стекло
+fe.protection.trample.minecraft.glass_pane.*                       # (default: true) PLACE Стеклянная панель
+fe.protection.trample.minecraft.glowstone.*                        # (default: true) PLACE Светящийся камень
+fe.protection.trample.minecraft.gold_block.*                       # (default: true) PLACE Золотой блок
+fe.protection.trample.minecraft.gold_ore.*                         # (default: true) PLACE Золотая руда
+fe.protection.trample.minecraft.golden_rail.*                      # (default: true) PLACE Энергорельсы
+fe.protection.trample.minecraft.grass.*                            # (default: true) PLACE Блок травы
+fe.protection.trample.minecraft.gravel.*                           # (default: true) PLACE Гравий
+fe.protection.trample.minecraft.hardened_clay.*                    # (default: true) PLACE Обожжёная глина
+fe.protection.trample.minecraft.hay_block.*                        # (default: true) PLACE Сноп сена
+fe.protection.trample.minecraft.heavy_weighted_pressure_plate.*    # (default: true) PLACE Утяжелённая нажимная пластина (Тяжёлая)
+fe.protection.trample.minecraft.hopper.*                           # (default: true) PLACE Воронка
+fe.protection.trample.minecraft.ice.*                              # (default: true) PLACE Лёд
+fe.protection.trample.minecraft.iron_bars.*                        # (default: true) PLACE Железные прутья
+fe.protection.trample.minecraft.iron_block.*                       # (default: true) PLACE Железный блок
+fe.protection.trample.minecraft.iron_door.*                        # (default: true) PLACE Железная дверь
+fe.protection.trample.minecraft.iron_ore.*                         # (default: true) PLACE Железная руда
+fe.protection.trample.minecraft.jukebox.*                          # (default: true) PLACE Проигрыватель
+fe.protection.trample.minecraft.jungle_stairs.*                    # (default: true) PLACE Ступеньки из тропической древесины
+fe.protection.trample.minecraft.ladder.*                           # (default: true) PLACE Лестница
+fe.protection.trample.minecraft.lapis_block.*                      # (default: true) PLACE Блок лазурита
+fe.protection.trample.minecraft.lapis_ore.*                        # (default: true) PLACE Лазуритовая руда
+fe.protection.trample.minecraft.lava.*                             # (default: true) PLACE Лава
+fe.protection.trample.minecraft.leaves.*                           # (default: true) PLACE Листья
+fe.protection.trample.minecraft.leaves2.*                          # (default: true) PLACE Листья
+fe.protection.trample.minecraft.lever.*                            # (default: true) PLACE Рычаг
+fe.protection.trample.minecraft.light_weighted_pressure_plate.*    # (default: true) PLACE Утяжелённая нажимная пластина (Лёгкая)
+fe.protection.trample.minecraft.lit_furnace.*                      # (default: true) PLACE Печь
+fe.protection.trample.minecraft.lit_pumpkin.*                      # (default: true) PLACE Светильник Джека
+fe.protection.trample.minecraft.lit_redstone_lamp.*                # (default: true) PLACE Лампа
+fe.protection.trample.minecraft.lit_redstone_ore.*                 # (default: true) PLACE Красная руда
+fe.protection.trample.minecraft.log.*                              # (default: true) PLACE Дерево
+fe.protection.trample.minecraft.log2.*                             # (default: true) PLACE Дерево
+fe.protection.trample.minecraft.melon_block.*                      # (default: true) PLACE Арбуз
+fe.protection.trample.minecraft.melon_stem.*                       # (default: true) PLACE tile.pumpkinStem.name
+fe.protection.trample.minecraft.mob_spawner.*                      # (default: true) PLACE Рассадник монстров
+fe.protection.trample.minecraft.monster_egg.*                      # (default: true) PLACE tile.monsterStoneEgg.name
+fe.protection.trample.minecraft.mossy_cobblestone.*                # (default: true) PLACE Замшелый булыжник
+fe.protection.trample.minecraft.mycelium.*                         # (default: true) PLACE Мицелий
+fe.protection.trample.minecraft.nether_brick.*                     # (default: true) PLACE Адские кирпичи
+fe.protection.trample.minecraft.nether_brick_fence.*               # (default: true) PLACE Адский забор
+fe.protection.trample.minecraft.nether_brick_stairs.*              # (default: true) PLACE Адские ступеньки
+fe.protection.trample.minecraft.nether_wart.*                      # (default: true) PLACE Адский нарост
+fe.protection.trample.minecraft.netherrack.*                       # (default: true) PLACE Адский камень
+fe.protection.trample.minecraft.noteblock.*                        # (default: true) PLACE Нотный блок
+fe.protection.trample.minecraft.oak_stairs.*                       # (default: true) PLACE Дубовые ступеньки
+fe.protection.trample.minecraft.obsidian.*                         # (default: true) PLACE Обсидиан
+fe.protection.trample.minecraft.packed_ice.*                       # (default: true) PLACE Плотный лёд
+fe.protection.trample.minecraft.piston.*                           # (default: true) PLACE Поршень
+fe.protection.trample.minecraft.piston_extension.*                 # (default: true) PLACE tile.null.name
+fe.protection.trample.minecraft.piston_head.*                      # (default: true) PLACE tile.null.name
+fe.protection.trample.minecraft.planks.*                           # (default: true) PLACE Доски
+fe.protection.trample.minecraft.portal.*                           # (default: true) PLACE Портал
+fe.protection.trample.minecraft.potatoes.*                         # (default: true) PLACE Картофель
+fe.protection.trample.minecraft.powered_comparator.*               # (default: true) PLACE tile.comparator.name
+fe.protection.trample.minecraft.powered_repeater.*                 # (default: true) PLACE tile.diode.name
+fe.protection.trample.minecraft.pumpkin.*                          # (default: true) PLACE Тыква
+fe.protection.trample.minecraft.pumpkin_stem.*                     # (default: true) PLACE tile.pumpkinStem.name
+fe.protection.trample.minecraft.quartz_block.*                     # (default: true) PLACE tile.quartzBlock.name
+fe.protection.trample.minecraft.quartz_ore.*                       # (default: true) PLACE Кварцевая руда
+fe.protection.trample.minecraft.quartz_stairs.*                    # (default: true) PLACE Кварцевые ступеньки
+fe.protection.trample.minecraft.rail.*                             # (default: true) PLACE Рельсы
+fe.protection.trample.minecraft.red_flower.*                       # (default: true) PLACE tile.flower2.name
+fe.protection.trample.minecraft.red_mushroom.*                     # (default: true) PLACE Гриб
+fe.protection.trample.minecraft.red_mushroom_block.*               # (default: true) PLACE Гриб
+fe.protection.trample.minecraft.redstone_block.*                   # (default: true) PLACE Блок красного камня
+fe.protection.trample.minecraft.redstone_lamp.*                    # (default: true) PLACE Лампа
+fe.protection.trample.minecraft.redstone_ore.*                     # (default: true) PLACE Красная руда
+fe.protection.trample.minecraft.redstone_torch.*                   # (default: true) PLACE Красный факел
+fe.protection.trample.minecraft.redstone_wire.*                    # (default: true) PLACE Красная пыль
+fe.protection.trample.minecraft.reeds.*                            # (default: true) PLACE Сахарный тростник
+fe.protection.trample.minecraft.sand.*                             # (default: true) PLACE tile.sand.name
+fe.protection.trample.minecraft.sandstone.*                        # (default: true) PLACE Песчаник
+fe.protection.trample.minecraft.sandstone_stairs.*                 # (default: true) PLACE Ступеньки из песчаника
+fe.protection.trample.minecraft.sapling.*                          # (default: true) PLACE tile.sapling.name
+fe.protection.trample.minecraft.skull.*                            # (default: true) PLACE tile.skull.name
+fe.protection.trample.minecraft.snow.*                             # (default: true) PLACE Снег
+fe.protection.trample.minecraft.snow_layer.*                       # (default: true) PLACE Снег
+fe.protection.trample.minecraft.soul_sand.*                        # (default: true) PLACE Песок душ
+fe.protection.trample.minecraft.sponge.*                           # (default: true) PLACE Губка
+fe.protection.trample.minecraft.spruce_stairs.*                    # (default: true) PLACE Еловые ступеньки
+fe.protection.trample.minecraft.stained_glass.*                    # (default: true) PLACE Окрашенное стекло
+fe.protection.trample.minecraft.stained_glass_pane.*               # (default: true) PLACE Окрашенная стеклянная панель
+fe.protection.trample.minecraft.stained_hardened_clay.*            # (default: true) PLACE tile.clayHardenedStained.name
+fe.protection.trample.minecraft.standing_sign.*                    # (default: true) PLACE Табличка
+fe.protection.trample.minecraft.sticky_piston.*                    # (default: true) PLACE Липкий поршень
+fe.protection.trample.minecraft.stone.*                            # (default: true) PLACE Камень
+fe.protection.trample.minecraft.stone_brick_stairs.*               # (default: true) PLACE Ступеньки из каменного кирпича
+fe.protection.trample.minecraft.stone_button.*                     # (default: true) PLACE Кнопка
+fe.protection.trample.minecraft.stone_pressure_plate.*             # (default: true) PLACE Нажимная плита
+fe.protection.trample.minecraft.stone_slab.*                       # (default: true) PLACE tile.stoneSlab.name
+fe.protection.trample.minecraft.stone_stairs.*                     # (default: true) PLACE Ступеньки из булыжника
+fe.protection.trample.minecraft.stonebrick.*                       # (default: true) PLACE Каменные кирпичи
+fe.protection.trample.minecraft.tallgrass.*                        # (default: true) PLACE Трава
+fe.protection.trample.minecraft.tnt.*                              # (default: true) PLACE Динамит
+fe.protection.trample.minecraft.torch.*                            # (default: true) PLACE Факел
+fe.protection.trample.minecraft.trapdoor.*                         # (default: true) PLACE Люк
+fe.protection.trample.minecraft.trapped_chest.*                    # (default: true) PLACE Сундук-ловушка
+fe.protection.trample.minecraft.tripwire.*                         # (default: true) PLACE Растяжка
+fe.protection.trample.minecraft.tripwire_hook.*                    # (default: true) PLACE Крюк
+fe.protection.trample.minecraft.unlit_redstone_torch.*             # (default: true) PLACE Красный факел
+fe.protection.trample.minecraft.unpowered_comparator.*             # (default: true) PLACE tile.comparator.name
+fe.protection.trample.minecraft.unpowered_repeater.*               # (default: true) PLACE tile.diode.name
+fe.protection.trample.minecraft.vine.*                             # (default: true) PLACE Лоза
+fe.protection.trample.minecraft.wall_sign.*                        # (default: true) PLACE Табличка
+fe.protection.trample.minecraft.water.*                            # (default: true) PLACE Вода
+fe.protection.trample.minecraft.waterlily.*                        # (default: true) PLACE Кувшинка
+fe.protection.trample.minecraft.web.*                              # (default: true) PLACE Паутина
+fe.protection.trample.minecraft.wheat.*                            # (default: true) PLACE Всходы
+fe.protection.trample.minecraft.wooden_button.*                    # (default: true) PLACE Кнопка
+fe.protection.trample.minecraft.wooden_door.*                      # (default: true) PLACE Деревянная дверь
+fe.protection.trample.minecraft.wooden_pressure_plate.*            # (default: true) PLACE Нажимная плита
+fe.protection.trample.minecraft.wooden_slab.*                      # (default: true) PLACE tile.woodSlab.name
+fe.protection.trample.minecraft.wool.*                             # (default: true) PLACE Шерсть
+fe.protection.trample.minecraft.yellow_flower.*                    # (default: true) PLACE tile.flower1.name
